@@ -88,9 +88,9 @@ Add new entries to `content/pages/pubs.md` under the right year heading (add a n
 
 ## GitHub Pages setup
 
-The site deploys automatically via GitHub Actions on every push to `main`. One-time setup required in the repository settings:
+On every push to `main`, a GitHub Actions workflow builds the Pelican site and publishes `output/` to the `gh-pages` branch. GitHub Pages serves that branch. One-time setup in the repository settings:
 
 1. Go to **Settings → Pages**
-2. Under **Source**, select **GitHub Actions** (not "Deploy from a branch")
+2. Under **Source**, select **Deploy from a branch**, then choose `gh-pages` and `/ (root)`
 
-After that, pushing to `main` triggers the workflow, which builds the Pelican site and deploys the output. You can also trigger a deploy manually from the **Actions** tab using the "Run workflow" button.
+Don't edit the `gh-pages` branch by hand; it is overwritten on every deploy. You can also trigger a deploy manually from the **Actions** tab using the "Run workflow" button.

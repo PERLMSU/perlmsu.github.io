@@ -53,6 +53,12 @@ Research Specialist/Faculty, Department of Physics and Astronomy, MSU<br>
 
 ## Research Associates
 
+#### Vicky Phun
+<img src="/assets/img/people/vicky-phun.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Vicky Phun">
+Research Associate, Department of Physics and Astronomy, MSU<br>
+1310D BPS<br>
+<phunvick@msu.edu>
+
 #### Missy Cosby
 <img src="/assets/img/people/missy-cosby.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Missy Cosby">
 Research Associate, Department of Physics and Astronomy, MSU<br>

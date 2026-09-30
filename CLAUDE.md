@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-Pelican static site for the MSU Physics Education Research Lab (PERL), hosted on GitHub Pages at `perlmsu.github.io`. The infrastructure (theme, plugin, workflow) is adapted from the CERL site (`msu-cerl.github.io`); content was migrated from the old `perl.natsci.msu.edu` site. The Python environment is managed with `uv`. Pushing to `main` triggers automatic GitHub Pages build and deploy.
+Pelican static site for the MSU Physics Education Research Lab (PERL), hosted on GitHub Pages at `perlmsu.github.io`. The infrastructure (theme, plugin, workflow) is adapted from the CERL site (`msu-cerl.github.io`); content was migrated from the old `perl.natsci.msu.edu` site. The Python environment is managed with `uv`. Pushing to `main` triggers a workflow that builds the site and publishes `output/` to the `gh-pages` branch, which GitHub Pages serves ("Deploy from a branch: gh-pages / root"). The Actions-based Pages deployment (`deploy-pages`) was tried first and GitHub never served it for this repo, so don't switch back without checking.
 
 ## Local Development
 
