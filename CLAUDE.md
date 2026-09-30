@@ -37,7 +37,7 @@ Static pages live under `content/pages/` and news posts under `content/posts/`, 
 
 Pages whose URL is nested (e.g. `/research/areas/`) set `URL:` and `Save_as:` metadata explicitly.
 
-**News posts:** `content/posts/` — one Markdown file per post; served at `/news/{year}/{slug}/`. Filenames are `YYYY-MM-DD-slug.md`.
+**News posts:** `content/posts/` — one Markdown file per post; served at `/news/{year}/{slug}/`. Filenames are `YYYY-MM-DD-slug.md`. `/news/` (`templates/news.html`) lists only posts from the last `NEWS_RECENT_YEARS` calendar years; older posts are listed by year at `/news/archive/` (`templates/news_archive.html`). The cutoff (`NEWS_ARCHIVE_BEFORE` in `pelicanconf.py`) is computed from the build date, so posts roll into the archive automatically.
 
 **Theme (`themes/`):**
 

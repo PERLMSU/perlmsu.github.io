@@ -3,11 +3,13 @@
 {% block title %}News | {{ SITENAME }}{% endblock %}
 
 {% block body %}
+{% set recent = articles | selectattr('date.year', 'ge', NEWS_ARCHIVE_BEFORE) | list %}
+{% set archived = articles | length - recent | length %}
 <main id="main-content" class="page-content typeset">
   <h1 class="page-title">News</h1>
-  {% if articles %}
+  {% if recent %}
   <ul class="news-list">
-    {% for article in articles %}
+    {% for article in recent %}
     <li class="news-item">
       <a class="news-item-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
       <div class="news-item-meta">
@@ -20,7 +22,10 @@
     {% endfor %}
   </ul>
   {% else %}
-  <p>No posts yet — check back soon.</p>
+  <p>No recent posts — check back soon.</p>
+  {% endif %}
+  {% if archived %}
+  <p class="news-archive-link"><a href="{{ SITEURL }}/news/archive/">News archive</a> — {{ archived }} posts from before {{ NEWS_ARCHIVE_BEFORE }}</p>
   {% endif %}
 </main>
 {% endblock %}

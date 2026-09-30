@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}News Archive | {{ SITENAME }}{% endblock %}
+
+{% block body %}
+{% set archived = articles | rejectattr('date.year', 'ge', NEWS_ARCHIVE_BEFORE) | list %}
+{% set years = archived | groupby('date.year') | reverse | list %}
+<main id="main-content" class="page-content typeset">
+  <h1 class="page-title">News Archive</h1>
+  <p><a href="{{ SITEURL }}/news/">← Recent news</a></p>
+  {% if years %}
+  <p>{% for year, _ in years %}<a href="#{{ year }}">{{ year }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+  {% for year, items in years %}
+  <h2 id="{{ year }}">{{ year }}</h2>
+  <ul class="news-archive-list">
+    {% for article in items %}
+    <li>
+      <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%b %-d') }}</time>
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  {% else %}
+  <p>No archived posts yet.</p>
+  {% endif %}
+</main>
+{% endblock %}

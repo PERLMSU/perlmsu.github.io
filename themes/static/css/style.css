@@ -524,6 +524,23 @@ button:focus-visible {
 
 .news-item-summary { margin: 0 0 0.5rem; }
 
+/* Post images show as thumbnails in the news list (full size on the post) */
+.news-item-summary img {
+  float: right;
+  width: 180px;
+  max-height: 140px;
+  object-fit: cover;
+  object-position: center top;
+  margin: 0.25rem 0 0.75rem 1.25rem;
+  border-radius: 4px;
+}
+
+.news-item::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
 .news-item-more {
   font-size: 0.875rem;
   font-weight: 600;
@@ -534,6 +551,30 @@ button:focus-visible {
 .news-item-more:hover {
   color: var(--color-accent-hover);
   text-decoration: underline;
+}
+
+.news-archive-link {
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+
+/* Archive: compact date + title rows grouped under year headings */
+.typeset .news-archive-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.typeset .news-archive-list li {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-archive-list time {
+  flex: 0 0 3.5rem;
+  font-size: 0.875rem;
+  color: var(--color-text-light);
+  padding-top: 0.15rem;
 }
 
 /* ── Article ──────────────────────────────────────────────── */

@@ -76,7 +76,7 @@ Summary: One or two sentences shown on the news index page.
 Full post content starts here...
 ```
 
-The post will appear automatically at `/news/` in reverse chronological order. The URL will be `/news/{year}/{slug}/`.
+The post will appear automatically at `/news/` in reverse chronological order. The URL will be `/news/{year}/{slug}/`. Posts older than 3 calendar years move to the news archive (`/news/archive/`) automatically on the next build (change `NEWS_RECENT_YEARS` in `pelicanconf.py` to adjust).
 
 ## Adding a seminar
 

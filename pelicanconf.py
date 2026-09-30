@@ -1,3 +1,5 @@
+from datetime import date
+
 AUTHOR = "PERL"
 SITENAME = "PERL@MSU"
 SITEURL = ""
@@ -19,8 +21,14 @@ ARTICLE_PATHS = ["posts"]
 ARTICLE_URL = "news/{date:%Y}/{slug}/"
 ARTICLE_SAVE_AS = "news/{date:%Y}/{slug}/index.html"
 
-DIRECT_TEMPLATES = ["news"]
+DIRECT_TEMPLATES = ["news", "news_archive"]
 NEWS_SAVE_AS = "news/index.html"
+NEWS_ARCHIVE_SAVE_AS = "news/archive/index.html"
+
+# /news/ lists posts from the last NEWS_RECENT_YEARS calendar years (including
+# this one); older posts are listed at /news/archive/. Rolls over automatically.
+NEWS_RECENT_YEARS = 3
+NEWS_ARCHIVE_BEFORE = date.today().year - NEWS_RECENT_YEARS + 1
 
 STATIC_PATHS = ["assets"]
 
