@@ -9,7 +9,8 @@ SITE_DESCRIPTION = """
 We study how students learn physics and engage in physics practice, from pre-college to post-graduate.
 <br><br>
 Want to hear about our seminars, or interested in joining us?<br>
-See <a href="/getting-involved/">Getting Involved</a>.
+See <a href="/getting-involved/">Getting Involved</a> or<br>
+email us at <a href="mailto:perl@msu.edu">perl@msu.edu</a>.
 """
 
 # Theme choice: "msu" or "cerl"
