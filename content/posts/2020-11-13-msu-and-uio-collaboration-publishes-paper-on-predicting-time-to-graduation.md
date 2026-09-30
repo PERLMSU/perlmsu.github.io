@@ -1,0 +1,7 @@
+Title: MSU and UiO collaboration publishes paper on predicting time to graduation
+Date: 2020-11-13
+Slug: msu-and-uio-collaboration-publishes-paper-on-predicting-time-to-graduation
+
+A team of researchers from the University of Oslo and Michigan State including PhD student, John Aiken (lead author), and PERL co-director, Danny Caballero, published [Predicting time to graduation at a large enrollment American university](https://doi.org/10.1371/journal.pone.0242334) in PLOS One.
+
+Abstract: The time it takes a student to graduate with a university degree is mitigated by a variety of factors such as their background, the academic performance at university, and their integration into the social communities of the university they attend. Different universities have different populations, student services, instruction styles, and degree programs, however, they all collect institutional data. This study presents data for 160,933 students attending a large American research university. The data includes performance, enrollment, demographics, and preparation features. Discrete time hazard models for the time-to-graduation are presented in the context of Tinto’s Theory of Drop Out. Additionally, a novel machine learning method: gradient boosted trees, is applied and compared to the typical maximum likelihood method. We demonstrate that enrollment factors (such as changing a major) lead to greater increases in model predictive performance of when a student graduates than performance factors (such as grades) or preparation (such as high school GPA).

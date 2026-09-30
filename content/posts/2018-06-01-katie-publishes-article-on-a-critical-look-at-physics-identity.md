@@ -1,0 +1,7 @@
+Title: Katie Publishes Article on a Critical Look at Physics Identity
+Date: 2018-06-01
+Slug: katie-publishes-article-on-a-critical-look-at-physics-identity
+
+Prof. Katie Hinko and her collaborators, Simone Hyater-Adams, Claudia Fracchiolla, Noah Finkelstein, have published [an article investigating a framework for examining race and physics identity](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.14.010132).
+
+Abstract: Studies on physics identity are appearing more frequently and often responding to increased awareness of the underrepresentation of students of color in physics. In our broader research, we focus our efforts on understanding how racial identity and physics identity are negotiated throughout the experiences of Black physicists. In this paper, we present a Critical Physics Identity framework that can be used to examine racialized physics identity and demonstrate the utility of this framework by analyzing interviews with four physicists. Our framework draws from prior constructs of physics identity and racialized identity and provides operational definitions of six interacting dimensions. In this paper, we present the operationalized constructs, demonstrate how we use these constructs to code narrative data, as well as outline three methods of analysis that may be applied to study systems and structures and their influences on the experiences of Black students.

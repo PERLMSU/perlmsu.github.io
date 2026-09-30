@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title | striptags }} | {{ SITENAME }}{% endblock %}
+
+{% block body %}
+<main id="main-content" class="page-content typeset">
+  <article>
+    <h1 class="page-title">{{ article.title }}</h1>
+    <div class="article-meta">
+      <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+      {% if article.author %} · {{ article.author }}{% endif %}
+    </div>
+    {{ article.content }}
+  </article>
+  <p class="article-back"><a href="{{ SITEURL }}/news/">← News</a></p>
+</main>
+{% endblock %}

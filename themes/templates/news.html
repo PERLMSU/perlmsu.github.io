@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}News | {{ SITENAME }}{% endblock %}
+
+{% block body %}
+<main id="main-content" class="page-content typeset">
+  <h1 class="page-title">News</h1>
+  {% if articles %}
+  <ul class="news-list">
+    {% for article in articles %}
+    <li class="news-item">
+      <a class="news-item-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+      <div class="news-item-meta">
+        <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+        {% if article.author %} · {{ article.author }}{% endif %}
+      </div>
+      {% if article.summary %}<div class="news-item-summary">{{ article.summary }}</div>{% endif %}
+      <a class="news-item-more" href="{{ SITEURL }}/{{ article.url }}" aria-hidden="true" tabindex="-1">Read the full post →</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>No posts yet — check back soon.</p>
+  {% endif %}
+</main>
+{% endblock %}

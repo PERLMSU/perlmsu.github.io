@@ -1,0 +1,7 @@
+Title: Danny publishes paper about prevalence and nature of computational instruction
+Date: 2018-12-20
+Slug: danny-publishes-paper-about-prevalence-and-nature-of-computational-instruction
+
+PERL co-director Danny Caballero and collaborator Laura Merner have published an article in Physical Review Physics Education Research titled [Prevalence and nature of computational instruction in undergraduate physics programs across the United States](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.14.020129).
+
+Abstract: A national survey of physics faculty was conducted to investigate the prevalence and nature of computational instruction in physics courses across the United States. 1246 faculty from 357 unique institutions responded to the survey. The results suggest that more faculty have some form of computational teaching experience than a decade ago, but it appears that this experience does not necessarily translate to computational instruction in undergraduate students’ formal course work. Further, we find that formal programs in computational physics are absent from most departments. A majority of faculty do report using computation on homework and in projects, but few report using computation with interactive engagement methods in the classroom or on exams. Specific factors that underlie these results are the subject of future work, but we do find that there is a variation on the reported experience with computation and the highest degree that students can earn at the surveyed institutions.

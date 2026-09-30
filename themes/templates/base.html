@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <meta name="theme-color" content="{% if COLOR_SCHEME == 'msu' %}#18453b{% else %}#0d2b36{% endif %}">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/theme-{{ COLOR_SCHEME }}.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
+  {% if SITEURL %}
+    {% if page is defined %}
+  <link rel="canonical" href="{{ SITEURL }}{% if page.slug == 'home' %}/{% else %}/{{ page.url }}{% endif %}">
+    {% elif article is defined %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+    {% elif output_file is defined %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ output_file | replace('index.html', '') }}">
+    {% endif %}
+  {% endif %}
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ SITEURL }}/" class="site-brand">
+        <span class="site-name">{{ SITENAME }}</span>
+      </a>
+      <nav class="site-nav" aria-label="Main">
+        <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        {# Current path, used to highlight the active menu item #}
+        {% if page is defined and page.slug is defined %}
+          {% set current = '/' if page.slug == 'home' else '/' + page.url %}
+        {% elif article is defined %}
+          {% set current = '/news/' %}
+        {% elif output_file is defined %}
+          {% set current = '/' + output_file | replace('index.html', '') %}
+        {% else %}
+          {% set current = '' %}
+        {% endif %}
+        <ul>
+          {% for item in MENUITEMS %}
+          {% set label, url = item[0], item[1] %}
+          {% set children = item[2] if item | length > 2 else [] %}
+          {% if children %}
+          {% set section = url.rsplit('/', 2)[0] + '/' %}
+          <li class="has-submenu">
+            <a href="{{ url }}" {% if current.startswith(section) %}class="active"{% endif %}>{{ label }}</a>
+            <button class="submenu-toggle" aria-expanded="false">
+              <span class="sr-only">Show {{ label }} submenu</span>
+              <span class="submenu-caret" aria-hidden="true"></span>
+            </button>
+            <ul class="submenu">
+              {% for child_label, child_url in children %}
+              <li><a href="{{ child_url }}" {% if current == child_url %}class="active" aria-current="page"{% endif %}>{{ child_label }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% else %}
+          <li>
+            <a href="{{ url }}"
+              {% if current == url %}class="active" aria-current="page"
+              {% elif url != '/' and current.startswith(url) %}class="active"
+              {% endif %}
+            >{{ label }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  {% block feature %}{% endblock %}
+
+  <div class="page-wrap {% block layout_class %}{% endblock %}">
+    {% block body %}{% endblock %}
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      {% if SITELOGO %}
+      <a href="{{ SITEURL }}/" class="footer-logo">
+        <img src="{{ SITEURL }}{{ SITELOGO }}" alt="{{ SITENAME }}" height="52">
+      </a>
+      {% endif %}
+      <p>Physics Education Research Lab · <a href="https://msu.edu">Michigan State University</a></p>
+    </div>
+  </footer>
+  <script src="{{ SITEURL }}/theme/js/nav.js"></script>
+</body>
+</html>

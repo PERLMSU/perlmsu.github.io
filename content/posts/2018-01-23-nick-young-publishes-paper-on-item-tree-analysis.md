@@ -1,0 +1,9 @@
+Title: Nick Young publishes paper on item tree analysis
+Date: 2018-01-23
+Slug: nick-young-publishes-paper-on-item-tree-analysis
+
+Graduate student **Nick Young **published a paper investigating students' accuracy in determining the period, frequency, and angular frequency from mathematical and graphical representations.
+
+<https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.14.010104>
+
+> In the context of a generic harmonic oscillator, we investigated students’ accuracy in determining the period, frequency, and angular frequency from mathematical and graphical representations. In a series of studies including interviews, free response tests, and multiple choice tests developed in an iterative process, we assessed students in both algebra-based and calculus-based, traditionally instructed university-level introductory physics courses. Using the results, we categorized nine skills necessary for proficiency in determining period, frequency, and angular frequency. Overall results reveal that, postinstruction, proficiency is quite low: only about 20%–40% of students mastered most of the nine skills. Next, we used a semiquantitative, intuitive method to investigate the hierarchical structure of the nine skills. We also employed the more formal item tree analysis method to verify this structure and found that the skills form a multilevel, nonlinear hierarchy, with mastery of some skills being prerequisite for mastery in other skills. Finally, we implemented a targeted, 30-min group-work activity to improve proficiency in these skills and found a 1 standard deviation gain in accuracy. Overall, the results suggest that many students currently lack these essential skills, targeted practice may lead to required mastery, and that the observed hierarchical structure in the skills suggests that instruction should especially attend to the skills lower in the hierarchy.

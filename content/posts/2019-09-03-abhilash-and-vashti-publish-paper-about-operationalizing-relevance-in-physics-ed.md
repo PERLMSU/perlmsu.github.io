@@ -1,0 +1,7 @@
+Title: Abhilash and Vashti publish paper about operationalizing relevance in physics education
+Date: 2019-09-03
+Slug: abhilash-and-vashti-publish-paper-about-operationalizing-relevance-in-physics-ed
+
+PERL alumnus Abhilash Nair and PERL co-director Vashti Sawtelle publish [Operationalizing relevance in physics education: Using a systems view to expand our conception of making physics relevant](https://doi.org/10.1103/PhysRevPhysEducRes.15.020121) in Physical Review Physics Education Research.
+
+Abstract: A common hope of many physics educators and researchers is that students leave the course with a stronger sense that physics is relevant to them than when they entered the course. Multiple survey measures have attempted to measure shifts in students’ beliefs on the relevance of physics but frequently the results show a negative shift in students’ beliefs and are often reported as a failure of students to “see the relevance.” We challenge this view by highlighting the limitations of attitudinal and epistemological surveys’ ability to probe relevance. We then articulate a more expansive view of relevance using ecological systems theory that serves as a lens we apply to analyze students’ experiences. Instead of deficit-framing students’ abilities or challenging their beliefs about the relevance of physics, we show how incorporating their rich disciplinary experiences can make physics classrooms truly more relevant.

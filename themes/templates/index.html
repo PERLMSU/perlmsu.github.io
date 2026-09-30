@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block feature %}
+{#
+  Feature hero banner — disabled but preserved for potential re-use.
+  To re-enable:
+    1. Restore .feature-hero and .feature-overlay CSS rules in style.css
+       (a full-width banner with a darkening overlay, ~300px tall)
+    2. Add FEATURE_IMAGE = "/assets/img/YOUR_IMAGE.jpg" to pelicanconf.py
+    3. Uncomment the block below
+
+  <div class="feature-hero" style="background-image: url('{{ SITEURL }}{{ FEATURE_IMAGE }}')">
+    <div class="feature-overlay"></div>
+  </div>
+#}
+{% endblock %}
+
+{% block layout_class %}with-aside{% endblock %}
+
+{% block body %}
+<main id="main-content" class="page-content typeset">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ page.content }}
+</main>
+<aside class="page-aside" aria-label="About PERL">
+  <section class="aside-section">
+    <h3>Welcome!</h3>
+    <p>{{ SITE_DESCRIPTION | safe }}</p>
+  </section>
+</aside>
+{% endblock %}

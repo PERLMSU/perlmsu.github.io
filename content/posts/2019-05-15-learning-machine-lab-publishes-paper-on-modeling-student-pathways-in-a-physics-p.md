@@ -1,0 +1,7 @@
+Title: Learning Machine Lab publishes paper on modeling student pathways in a physics program
+Date: 2019-05-15
+Slug: learning-machine-lab-publishes-paper-on-modeling-student-pathways-in-a-physics-p
+
+PERL members John Aiken, Rachel Henderson, and Danny Caballero have published an article in Physical Review Physics Education Research titled [Modeling Student Pathways in a Physics Bachelor's Degree Program](https://doi.org/10.1103/PhysRevPhysEducRes.15.010128).
+
+Abstract: Physics education research (PER) has used quantitative modeling techniques to explore learning, affect, and other aspects of physics education. However, these studies have rarely examined the predictive output of the models, instead focusing on the inferences or causal relationships observed in various data sets. This research introduces a modern predictive modeling approach to the PER community using transcript data for students declaring physics majors at Michigan State University. Using a machine learning model, this analysis demonstrates that students who switch from a physics degree program to an engineering degree program do not take the third semester course in thermodynamics and modern physics, and may take engineering courses while registered as a physics major. Performance in introductory physics and calculus courses, measured by grade as well as a students’ declared gender and ethnicity play a much smaller role relative to the other features included in the model. These results are used to compare traditional statistical analysis to a more modern modeling approach.

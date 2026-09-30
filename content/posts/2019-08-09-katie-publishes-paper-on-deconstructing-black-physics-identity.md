@@ -1,0 +1,7 @@
+Title: Katie publishes paper on deconstructing black physics identity
+Date: 2019-08-09
+Slug: katie-publishes-paper-on-deconstructing-black-physics-identity
+
+PERL professor Katie Hinko and collaborators have published an article in Physical Review Physics Education Research titled [Deconstructing Black physics identity: Linking individual and social constructs using the critical physics identity framework.](https://doi.org/10.1103/PhysRevPhysEducRes.15.020115)
+
+Abstract: Understanding the ways in which Black folks identify as physicists can provide useful information about the facets of the physics discipline that perpetuate systems of oppression. In prior work, we developed the critical physics identity (CPI) framework to identify the structures and systems that impact the ways that people identify with the physics discipline. In this paper, we apply the CPI to deconstruct the factors that influence physics identity for a sample of undergraduate, graduate, and professional Black physicists. Using the CPI constructs, we classify important internal and external factors that influence how they identify, or not, as a physics person. We find that racialized resources were more influential than physics identity constructs, and document the subcodes of each CPI construct that are discussed most frequently among participants. We note variations between early and later career physicists and between men and women.
