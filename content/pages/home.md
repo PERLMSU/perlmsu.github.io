@@ -8,5 +8,3 @@ The Physics Education Research Lab at [Michigan State University](https://msu.ed
 We support work in a variety of contexts, from pre-college to post-graduate. Our research group includes faculty, staff, postdocs, and students from the [Department of Physics and Astronomy](https://pa.msu.edu/), the [College of Education](https://education.msu.edu/), [Lyman Briggs College](http://www.lymanbriggs.msu.edu/), the [CREATE for STEM Institute](https://create4stem.msu.edu/), and [Science Studies at State](https://create4stem.msu.edu/group/s3).
 
 Learn more about our [research areas](/research/areas/) and [projects](/research/projects/), meet the [people](/people/) in the lab, or join us at an upcoming [seminar](/events/).
-
-Check and test.
