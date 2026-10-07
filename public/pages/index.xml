@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pages on </title>
+		<link>http://localhost:1313/pages/</link>
+		<description>Recent content in Pages on </description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/curriculum/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/curriculum/</guid>
+				<description>&lt;p&gt;Title: Curriculum Development&#xA;Slug: curriculum&lt;/p&gt;&#xA;&lt;p&gt;PERL faculty design, implement, and study courses and instructional materials for physics at Michigan State and beyond.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: add an overview of PERL&amp;rsquo;s curriculum development work.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;projects-and-practices-in-physics-p-cubed&#34;&gt;Projects and Practices in Physics (P-Cubed)&lt;/h2&gt;&#xA;&lt;p&gt;P-Cubed is a problem-based introductory mechanics course in which students work in groups on complex problems, including computational ones. Course materials are available on the &lt;a href=&#34;https://www.msuperl.org/wikis/pcubed/doku.php&#34;&gt;P-Cubed wiki&lt;/a&gt;. See &lt;a href=&#34;http://localhost:1313/research/projects/&#34;&gt;Research Projects&lt;/a&gt; for research on the course.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/events-past/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/events-past/</guid>
+				<description>&lt;p&gt;Title: Past Events&#xA;Slug: events-past&#xA;URL: events/past/&#xA;Save_as: events/past/index.html&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/events/&#34;&gt;← Current events&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#past-events-for-academic-year-2025-2026&#34;&gt;2025-2026&lt;/a&gt; · &lt;a href=&#34;#past-events-for-academic-year-2024-2025&#34;&gt;2024-2025&lt;/a&gt; · &lt;a href=&#34;#past-events-for-academic-year-2023-2024&#34;&gt;2023-2024&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;past-events-for-academic-year-2025-2026&#34;&gt;Past Events for Academic Year 2025-2026&lt;/h2&gt;&#xA;&lt;h3 id=&#34;leveraging-community-assets-to-foster-sustained-institutional-change-examples-from-csus-learning-assistant-program-and-team-up-together-tut-excel-project&#34;&gt;Leveraging community assets to foster sustained institutional change: Examples from CSU’s Learning Assistant Program and TEAM UP Together (TUT) EXCEL Project&lt;/h3&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mel Sabella&lt;/strong&gt;, Professor of Physics in the Department of Chemistry, Physics and Engineering Studies at Chicago State University&lt;/p&gt;&#xA;&lt;p&gt;Wednesday, April 15th, 2026 at 3:00pm in BPS 1400 and on Zoom at &lt;a href=&#34;https://msu.zoom.us/j/96470703707&#34;&gt;https://msu.zoom.us/j/96470703707&lt;/a&gt;, Meeting ID: 964 7070 3707, Password: PERSeminar&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/events/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/events/</guid>
+				<description>&lt;p&gt;Title: Events&#xA;Slug: events&lt;/p&gt;&#xA;&lt;p&gt;PERL hosts a seminar series on physics and STEM education research during the academic year. Seminars are held on Wednesdays at 3:00pm in 1400 BPS and on &lt;a href=&#34;https://msu.zoom.us/j/96470703707&#34;&gt;Zoom&lt;/a&gt; (Meeting ID: 964 7070 3707, Password: PERSeminar).&lt;/p&gt;&#xA;&lt;p&gt;To receive seminar announcements, join the PERL mailing list — see &lt;a href=&#34;http://localhost:1313/getting-involved/&#34;&gt;Getting Involved&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Looking for earlier talks? See &lt;a href=&#34;http://localhost:1313/events/past/&#34;&gt;Past Events&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;upcoming-events-academic-year-2026-2027&#34;&gt;Upcoming Events: Academic Year 2026-2027&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-impact-of-optycs-and-its-future&#34;&gt;The Impact of OPTYCs and Its Future&lt;/h3&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kris Lui&lt;/strong&gt;, Director for The Organization for Physics at Two-Year Colleges (OPTYCs)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/getting-involved/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/getting-involved/</guid>
+				<description>&lt;p&gt;Title: Getting Involved&#xA;Slug: getting-involved&lt;/p&gt;&#xA;&lt;h2 id=&#34;join-our-mailing-list&#34;&gt;Join our mailing list&lt;/h2&gt;&#xA;&lt;p&gt;Interested in PERL events and seminars? Consider joining our mailing list. Send an email to &lt;a href=&#34;mailto:listserv@list.msu.edu?body=JOIN%20perl&#34;&gt;listserv@list.msu.edu&lt;/a&gt; with the message: &lt;code&gt;JOIN perl&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Once approved, you will begin receiving emails about PERL &lt;a href=&#34;http://localhost:1313/events/&#34;&gt;events and seminars&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;undergraduate-research&#34;&gt;Undergraduate research&lt;/h2&gt;&#xA;&lt;p&gt;Undergraduate students interested in working with PERL on research projects are encouraged to contact any &lt;a href=&#34;http://localhost:1313/people/#faculty&#34;&gt;member of the PERL faculty&lt;/a&gt;. Our group has a number of research projects for undergraduates for which students may volunteer or earn course credit (through PHY 405). A limited number of paid positions are typically available after one semester of either volunteering or taking course credit.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/home/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/home/</guid>
+				<description>&lt;p&gt;Title: Physics Education Research Lab @ MSU&#xA;Slug: home&#xA;Save_as: index.html&#xA;Template: index&lt;/p&gt;&#xA;&lt;p&gt;The Physics Education Research Lab at &lt;a href=&#34;https://msu.edu&#34;&gt;Michigan State University&lt;/a&gt; (PERL@MSU) is an interdisciplinary collaboration that studies how students learn physics and engage in physics practice; the social and contextual factors that promote student learning and engagement; assessments of conceptual learning, epistemology, and practice; and the use of educational technology.&lt;/p&gt;&#xA;&lt;p&gt;We support work in a variety of contexts, from pre-college to post-graduate. Our research group includes faculty, staff, postdocs, and students from the &lt;a href=&#34;https://pa.msu.edu/&#34;&gt;Department of Physics and Astronomy&lt;/a&gt;, the &lt;a href=&#34;https://education.msu.edu/&#34;&gt;College of Education&lt;/a&gt;, &lt;a href=&#34;http://www.lymanbriggs.msu.edu/&#34;&gt;Lyman Briggs College&lt;/a&gt;, the &lt;a href=&#34;https://create4stem.msu.edu/&#34;&gt;CREATE for STEM Institute&lt;/a&gt;, and &lt;a href=&#34;https://create4stem.msu.edu/group/s3&#34;&gt;Science Studies at State&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/partnerships/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/partnerships/</guid>
+				<description>&lt;p&gt;Title: Community Partnerships&#xA;Slug: partnerships&lt;/p&gt;&#xA;&lt;p&gt;PERL works with schools, informal science programs, and community organizations to support physics learning outside the university classroom.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: add an overview of PERL&amp;rsquo;s outreach and community partnership work.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;todo-partnership-name&#34;&gt;&lt;em&gt;TODO: Partnership name&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: partner organization, description of the partnership, people involved, and links.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;todo-partnership-name-1&#34;&gt;&lt;em&gt;TODO: Partnership name&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: partner organization, description of the partnership, people involved, and links.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/people/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/people/</guid>
+				<description>&lt;p&gt;Title: People&#xA;Slug: people&lt;/p&gt;&#xA;&lt;h2 id=&#34;faculty&#34;&gt;Faculty&lt;/h2&gt;&#xA;&lt;h4 id=&#34;danny-caballero&#34;&gt;Danny Caballero&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;rachel-henderson&#34;&gt;Rachel Henderson&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;clausell-mathis&#34;&gt;Clausell Mathis&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;daryl-mcpadden&#34;&gt;Daryl McPadden&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;vashti-sawtelle&#34;&gt;Vashti Sawtelle&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;researchers&#34;&gt;Researchers&lt;/h2&gt;&#xA;&lt;h4 id=&#34;dena-izadi&#34;&gt;Dena Izadi&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;research-associates&#34;&gt;Research Associates&lt;/h2&gt;&#xA;&lt;h4 id=&#34;vicky-phun&#34;&gt;Vicky Phun&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;missy-cosby&#34;&gt;Missy Cosby&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h2&gt;&#xA;&lt;h4 id=&#34;basma-almahmood&#34;&gt;Basma AlMahmood&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;theodore-bott&#34;&gt;Theodore Bott&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;frank-dachille&#34;&gt;Frank Dachille&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;sage-foster&#34;&gt;Sage Foster&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;jessi-randolph&#34;&gt;Jessi Randolph&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h4 id=&#34;alex-reynolds&#34;&gt;Alex Reynolds&lt;/h4&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: add current members.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/pubs/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/pubs/</guid>
+				<description>&lt;p&gt;Title: Publications&#xA;Slug: pubs&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#2025&#34;&gt;2025&lt;/a&gt; · &lt;a href=&#34;#2024&#34;&gt;2024&lt;/a&gt; · &lt;a href=&#34;#2021&#34;&gt;2021&lt;/a&gt; · &lt;a href=&#34;#2020&#34;&gt;2020&lt;/a&gt; · &lt;a href=&#34;#2017&#34;&gt;2017&lt;/a&gt; · &lt;a href=&#34;#2016&#34;&gt;2016&lt;/a&gt; · &lt;a href=&#34;#2015&#34;&gt;2015&lt;/a&gt; · &lt;a href=&#34;#2014&#34;&gt;2014&lt;/a&gt; · &lt;a href=&#34;#2013&#34;&gt;2013&lt;/a&gt; · &lt;a href=&#34;#2012&#34;&gt;2012&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;p&gt;E. M. Scanlon, M. W. Guthrie, X. Wu, E. Syerson, J. Butler, B. Mora, D. Cassens, M. D. Moenter, T. Bott, T. Adams, D. McPadden; Amplifying disabled voices in physics: Experiences from the C2C design team. Phys. Teach. 1 April 2025; 63 (4): 294–295. &lt;a href=&#34;https://doi.org/10.1119/5.0265960&#34;&gt;https://doi.org/10.1119/5.0265960&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;p&gt;Caballero, M.D., Odden, T.O.B. Computing in physics education. Nat. Phys. 20, 339–341 (2024). &lt;a href=&#34;https://doi.org/10.1038/s41567-023-02371-2&#34;&gt;https://doi.org/10.1038/s41567-023-02371-2&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/research-areas/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/research-areas/</guid>
+				<description>&lt;p&gt;Title: Research Areas&#xA;Slug: research-areas&#xA;URL: research/areas/&#xA;Save_as: research/areas/index.html&lt;/p&gt;&#xA;&lt;p&gt;Using a variety of qualitative and quantitative methods and tools, PERL at Michigan State investigates a broad range of important topics in physics education across a wide swath of contexts. See &lt;a href=&#34;http://localhost:1313/research/projects/&#34;&gt;Research Projects&lt;/a&gt; for specific current and past efforts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-engagement-and-diversity&#34;&gt;Learning, engagement, and diversity&lt;/h2&gt;&#xA;&lt;p&gt;How and which students learn and engage with physics in both formal and informal environments is a major research area for PERL. We study introductory and advanced physics courses, as well as K-12 physics settings, to understand how students understand concepts, make mathematical connections to physics, and draw from multiple disciplines to make sense of phenomena. In these environments we also study how different instructional models support diverse groups of students in learning and engaging with physics. For instance, in a number of studied courses, students work collaboratively towards a common goal. In those courses, PERL studies how students participate in these group-oriented tasks including who participates, what kind of participation is observed, and how that participation develops over time. Learning goals include a focus on science practices including computational modeling, argumentation, problem solving, and experimental design. In these environments, how students engage with and develop their fluency with those practices is central to the research. This work has been supported by the Howard Hughes Medical Institute, the National Science Foundation (DUE-1741575), the CREATE for STEM Institute, Science and Society at State, and the Norwegian Research Council.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/pages/research-projects/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/pages/research-projects/</guid>
+				<description>&lt;p&gt;Title: Research Projects&#xA;Slug: research-projects&#xA;URL: research/projects/&#xA;Save_as: research/projects/index.html&lt;/p&gt;&#xA;&lt;p&gt;Below are some of the specific projects that make up PERL&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/research/areas/&#34;&gt;research areas&lt;/a&gt;. Where a project has produced open-source software, it is listed alongside the project. All PERL software is available on &lt;a href=&#34;https://github.com/PERLMSU&#34;&gt;GitHub&lt;/a&gt; under a &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial 4.0&lt;/a&gt; license.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;TODO: review these project descriptions, add team members and funding for each, and add any current projects that are missing.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;integrating-computation-into-undergraduate-physics&#34;&gt;Integrating computation into undergraduate physics&lt;/h3&gt;&#xA;&lt;h4 id=&#34;folks-involved-todo&#34;&gt;Folks involved: &lt;em&gt;TODO&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;PERL studies how computation is taught in physics courses and how faculty come to integrate it into their teaching. This includes a national survey of physics faculty that used machine learning to identify the factors most predictive of whether faculty include computation in their courses (&lt;a href=&#34;https://doi.org/10.1103/PhysRevPhysEducRes.15.010114&#34;&gt;Young et al. 2019&lt;/a&gt;). PERL members also lead the &lt;a href=&#34;https://gopicup.org&#34;&gt;Partnership for Integration of Computation into Undergraduate Physics (PICUP)&lt;/a&gt;, which was recently &lt;a href=&#34;http://localhost:1313/news/2024/msu-researchers-receive-nsf-grant-to-study-mathematical-sensemaking-in-science/&#34;&gt;awarded an NSF IUSE grant&lt;/a&gt; to build a national community of computational physics educators, expand its resource collections, and develop assessment tasks for computational physics learning goals.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

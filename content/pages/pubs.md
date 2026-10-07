@@ -1,412 +1,796 @@
 Title: Publications
 Slug: pubs
 
-[2025](#2025) · [2024](#2024) · [2021](#2021) · [2020](#2020) · [2017](#2017) · [2016](#2016) · [2015](#2015) · [2014](#2014) · [2013](#2013) · [2012](#2012)
+[2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [2019](#2019) · [2018](#2018) · [2017](#2017) · [2016](#2016) · [2015](#2015) · [2014](#2014) · [2013](#2013) · [2012](#2012) · [2011](#2011) · [2009](#2009)
+
+## 2026
+
+Bolger, E., Renbarger, R., Boyd, T., Wang, Y., Caballero, M. D.,
+Finkelstein, N., Simkins, S., Henderson, C., & Beach, A. (2026).
+*Integrating machine learning into systematic literature reviews:
+Advancing a human-in-the-loop framework* \[Unpublished manuscript\].
+
+Byun, S., Brennan, L., Christensen, J., Ortiz, N., Shah, N., Reinholz,
+D., Stroupe, D., & Caballero, M. D. (2026). Equity-focused coaching:
+Negotiating teachers’ interpretations of racialized and gendered
+participation patterns. *Journal of Teacher Education*, *77*(3),
+212–229. <https://doi.org/10.1177/00224871261417322>
+
+Chitchyan, S., Caballero, M. D., Nomer, M., & Karam, L. (2026). Feedback
+engagement and analysis in assessments (FEAST) in computing education.
+*Proceedings of the 57th ACM Technical Symposium on Computer Science
+Education v.2, SIGCSE TS 2026*, 1265–1266.
+<https://doi.org/10.1145/3770761.3777263>
+
+Renbarger, R., Wang, Y., Boyd, T., Bolger, E., Finkelstein, N.,
+Henderson, C., Caballero, M. D., Beach, A., & Simkins, S. (2026). Making
+equitable change: A meta-synthesis of instructional change efforts for
+marginalized student groups. *Proceedings of the American Educational
+Research Association Annual Meeting*.
+
+Renbarger, R., Wang, Y., Boyd, T., Bolger, E., Ison, M., Finkelstein,
+N., Henderson, C., Beach, A., Simkins, S., & Caballero, M. D. (2026).
+ECR: Creating transformational STEM education: A metasynthesis mapping a
+decade of systemic change research. *Proceedings of the American Society
+for Engineering Education Annual Conference*.
+
+Sabo, H. C., Odden, T. O. B., & Caballero, M. D. (2026). How do we
+assess computation in physics? *The Physics Teacher*, *64*(3), 200–203.
+<https://doi.org/10.1119/5.0174333>
+
+Stroupe, D., Byun, S., Christensen, J., Ortiz, N., Willison, J.,
+Reinholz, D. L., & Caballero, M. D. (2026). Supporting teachers to
+integrate computational practices and design opportunities for equitable
+participation in science classrooms. *Cognition and Instruction*,
+*44*(2), 110–152. <https://doi.org/10.1080/07370008.2026.2630727>
+
+Wang, Y., Bolger, E., Renbarger, R., Boyd, T., Finkelstein, N.,
+Henderson, C., Beach, A., Simkins, S., & Caballero, M. D. (2026). ECR:
+Facilitating change in undergraduate STEM: A multidisciplinary,
+multimethod, meta-synthesis mapping a decade of growth. *Proceedings of
+the American Society for Engineering Education Annual Conference*.
+
+Wang, Y., Renbarger, R., Boyd, T., Bolger, E., Finkelstein, N.,
+Henderson, C., Caballero, M. D., Beach, A., & Simkins, S. (2026a).
+Change strategies in undergraduate STEM education: A meta-synthesis and
+update of a decade of research. *Proceedings of the American Educational
+Research Association Annual Meeting*.
+
+Wang, Y., Renbarger, R., Boyd, T., Bolger, E., Finkelstein, N.,
+Henderson, C., Caballero, M. D., Beach, A., & Simkins, S. (2026b).
+*Facilitating systemic change in undergraduate engineering education: A
+literature meta-synthesis on change strategies* \[Unpublished
+manuscript\].
 
 ## 2025
 
-E. M. Scanlon, M. W. Guthrie, X. Wu, E. Syerson, J. Butler, B. Mora, D. Cassens, M. D. Moenter, T. Bott, T. Adams, D. McPadden; Amplifying disabled voices in physics: Experiences from the C2C design team. Phys. Teach. 1 April 2025; 63 (4): 294–295. <https://doi.org/10.1119/5.0265960>
+Bolger, E., & Caballero, M. (2025). <span class="nocase">Exploring the
+Impact of Unsupervised Clustering Methods in Systematic Literature
+Reviews</span>. *Proceedings of the 56th ACM Technical Symposium on
+Computer Science Education v. 2*, 1391–1392.
+<https://doi.org/10.1145/3641555.3705184>
+
+Bolger, E., Nwobi, M., & Caballero, M. D. (2025). Characterizing faculty
+online learning community interactions using social network analysis.
+*Phys. Rev. Phys. Educ. Res.*, *21*, 020133.
+<https://doi.org/10.1103/n3yf-5h29>
+
+Bolger, E., Wang, Y., Renbarger, R., Caballero, M. D., Nwobi, M., Lem,
+C., Finkelstein, N., Simkins, S., Boyd, T., Henderson, C., & Beach, A.
+(2025). <span class="nocase">Integrating machine learning into
+systematic reviews: Strengthening evidence synthesis</span>.
+*Proceedings of the 2025 Annual Meeting of the American Educational
+Research Association*.
+
+Caballero, M. D. (2025a). Integrating computing in physics courses
+\[Book Chapter\]. In *Integrating computing into the undergraduate
+physics curriculum* (pp. 1-1 to 1-14). IOP Publishing.
+<https://doi.org/10.1088/978-0-7503-5372-4ch1>
+
+Caballero, M. D. (Ed.). (2025b). *Integrating computing into the
+undergraduate physics curriculum*. IOP Publishing.
+<https://doi.org/10.1088/978-0-7503-5372-4>
+
+Caballero, M. D. (2025c). Where can we go from here? \[Book Chapter\].
+In *Integrating computing into the undergraduate physics curriculum*
+(pp. 14-1 to 14-17). IOP Publishing.
+<https://doi.org/10.1088/978-0-7503-5372-4ch14>
+
+Vignal, M., Geschwind, G., Caballero, M. D., & Lewandowski, H. J.
+(2025). Couplet scoring for research based assessment instruments. In
+*Physical Review Physics Education Research*.
+<https://arxiv.org/abs/2307.03099>. <https://arxiv.org/abs/2307.03099>
 
 ## 2024
 
-Caballero, M.D., Odden, T.O.B. Computing in physics education. Nat. Phys. 20, 339–341 (2024). <https://doi.org/10.1038/s41567-023-02371-2>
+Bolger, E., & Caballero, M. (2024). Using natural language processing to
+explore instructional change strategies in undergraduate science
+education literature. *Proceedings of the 55th ACM Technical Symposium
+on Computer Science Education v. 2*, 1930–1930.
+<https://doi.org/10.1145/3626253.3635341>
 
-Frank T. Dachille, Gina M. Quan; Trajectories of Transfer Students Toward a Bachelor’s Degree-Granting Institution. Phys. Teach. 1 May 2024; 62 (5): 370–373. <https://doi.org/10.1119/5.0108466>
+Caballero, M. D., & Odden, T. O. B. (2024). Computing in physics
+education. *Nature Physics*, *20*(3), 339–341.
+<https://doi.org/10.1038/s41567-023-02371-2>
+
+Cooper, M. M., Caballero, M. D., Carmel, J. H., Duffy, E. M., Ebert-May,
+D., Fata-Hartley, C. L., Herrington, D. G., Laverty, J. T., Nelson, P.
+C., Posey, L. A., Stoltzfus, J. R., Stowe, R. L., Sweeder, R. D.,
+Tessmer, S., & Underwood, S. M. (2024). Beyond active learning: Using
+3-dimensional learning to create scientifically authentic,
+student-centered classrooms. *Plos One*, *19*(5), e0295887.
+<https://doi.org/10.1371/journal.pone.0295887>
+
+Frisbie, R. L.-S., Silvia, D., Caballero, M. D., Roca, R., Bowerman, A.,
+& Sachithanand, K. (2024). Exploring the scurry of squirrels in central
+park. *Proceedings of the 55th ACM Technical Symposium on Computer
+Science Education v. 2*, 1914–1914.
+<https://doi.org/10.1145/3626253.3635334>
+
+Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
+(2024a). Evidence for validity and reliability of a research-based
+assessment instrument on measurement uncertainty. *Phys. Rev. Phys.
+Educ. Res.*, *20*, 020125.
+<https://doi.org/10.1103/PhysRevPhysEducRes.20.020125>
+
+Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
+(2024b). Using a research-based assessment instrument to explore
+undergraduate students’ proficiencies around measurement uncertainty in
+physics lab contexts. *Phys. Rev. Phys. Educ. Res.*, *20*, 020105.
+<https://doi.org/10.1103/PhysRevPhysEducRes.20.020105>
+
+## 2023
+
+Odden, T. O. B., & Caballero, M. D. (2023). <span class="nocase">Physics
+Computational Literacy: What, Why, and How?</span> In
+*<span class="nocase">The International Handbook of Physics Education
+Research: Learning Physics</span>*. AIP Publishing LLC.
+<https://doi.org/10.1063/9780735425477_019>
+
+Silvia, D. W., Caballero, M. D., Finzell, T., Frisbie, R., Hamerski, P.,
+Bolger, E., Castle, S., Roca, R., & Tourangeau, P. (2023). Computing in
+support of disciplinary learning. *Proceedings of the 54th ACM Technical
+Symposium on Computer Science Education v. 2*, 1247–1247.
+<https://doi.org/10.1145/3545947.3573341>
+
+Vignal, M., Geschwind, G., Pollard, B., Henderson, R., Caballero, M. D.,
+& Lewandowski, H. J. (2023). Survey of physics reasoning on uncertainty
+concepts in experiments: An assessment of measurement uncertainty for
+introductory physics labs. *Phys. Rev. Phys. Educ. Res.*, *19*, 020139.
+<https://doi.org/10.1103/PhysRevPhysEducRes.19.020139>
+
+Young, N. T., Tollefson, K., & Caballero, M. D. (2023).
+<span class="nocase">Making graduate admissions in physics more
+equitable</span>. *Physics Today*, *76*(7), 40–45.
+<https://doi.org/10.1063/PT.3.5271>
+
+Young, N. T., Verboncoeur, N., Lam, D. C., & Caballero, M. D. (2023).
+Rubric-based holistic review represents a change from traditional
+graduate admissions approaches in physics. *Phys. Rev. Phys. Educ.
+Res.*, *19*, 010134.
+<https://doi.org/10.1103/PhysRevPhysEducRes.19.010134>
+
+## 2022
+
+Caballero, M. D., Engelhardt, L., Knaub, A. V., Kuchera, M., Puerto, M.
+L. del, Lunk, B., Roos, K., & Zimmerman, T. (2022). *2021 PICUP Virtual
+Capstone Conference Report* (R. C. Hilborn, Ed.). American Association
+of Physics Teachers.
+<https://www.compadre.org/picup//events/pdfs/2021_PICUP_Capstone_Report_Final_Final_220502.pdf>
+
+Hamerski, P. C., McPadden, D., Caballero, M. D., & Irving, P. W. (2022).
+Students’ perspectives on computational challenges in physics class.
+*Phys. Rev. Phys. Educ. Res.*, *18*, 020109.
+<https://doi.org/10.1103/PhysRevPhysEducRes.18.020109>
+
+Hamerski, P. C., Silvia, D., & Caballero, M. D. (2022). Exploring
+self-efficacy in data science. *Proceedings of the 27th ACM Conference
+on on Innovation and Technology in Computer Science Education Vol. 2,
+ITiCSE ’22*, 633–634. <https://doi.org/10.1145/3502717.3532131>
+
+Henderson, R., Hewagallage, D., Folmer, J., Michaluk, L., Deshler, J.,
+Fuller, E., & Stewart, J. (2022). The mediating role of personality in
+the relation of gender to self-efficacy in physics and mathematics.
+*Physical Review Physics Education Research*, *18*(1), 010143.
+<https://doi.org/10.1103/PhysRevPhysEducRes.18.010143>
+
+Sand, O. P., Caballero, M. D., Mørken, K. M., & Lockwood, E. (2022).
+<span class="nocase">Three Cases That Demonstrate How Students Connect
+the Domains of Mathematics and Computing</span>. *Journal of
+Mathematical Behavior*. <https://doi.org/10.1016/j.jmathb.2022.100955>
+
+Sand, O. P., Lockwood, E., Caballero, M. D., & Mørken, K. M. (2022).
+<span class="nocase">Students’ Development of a Logarithm Function in
+Python Using Taylor Expansions: A Teaching Design Case Study</span>.
+*Digital Experiences in Mathematics Education*.
+<https://doi.org/10.1007/s40751-022-00104-3>
+
+Stroupe, D., Byun, S., Willson, J., Christensen, J., Caballero, M. D., &
+Reinholz, D. L. (2022). Teachers’ use of resources for equitable
+integration of computation in science classrooms. In C. Chinn, E. Tan,
+C. Chan, & Y. Kali (Eds.), *Proceedings of the 16th international
+conference of the learning sciences-ICLS2022* (pp. 905–909).
+International Society of the Learning Sciences.
+
+Weller, D. P., Bott, T. E., Caballero, M. D., & Irving, P. W. (2022).
+Development and illustration of a framework for computational thinking
+practices in introductory physics. *Phys. Rev. Phys. Educ. Res.*, *18*,
+020106. <https://doi.org/10.1103/PhysRevPhysEducRes.18.020106>
+
+Willison, J., Christensen, J., Byun, S., Stroupe, D., & Caballero, M. D.
+(2022). How do you eat an elephant? How problem solving informs
+computational instruction in high school physics. *Physics Education
+Research Conference 2022, PER Conference*, 494–499.
+
+Wilson, J., Pollard, B., Aiken, J. M., Caballero, M. D., & Lewandowski,
+H. J. (2022). <span class="nocase">Classification of open-ended
+responses to a research-based assessment using natural language
+processing</span>. *Physical Review Physics Education Research*.
+<https://doi.org/10.1103/PhysRevPhysEducRes.18.010141>
+
+Young, N. T., Tollefson, K., Zegers, R. G. T., & Caballero, M. D.
+(2022). Rubric-based holistic review: A promising route to equitable
+graduate admissions in physics. *Phys. Rev. Phys. Educ. Res.*, *18*,
+020140. <https://doi.org/10.1103/PhysRevPhysEducRes.18.020140>
 
 ## 2021
 
-Stewart, John, Byron Drury, James Wells, Aaron Adair, **Rachel Henderson**, Yunfei Ma,  Ángel Pérez-Lemonche, David Pritchard. “Examining the relation of correct knowledge and misconceptions using the nominal response model” *Physical Review Physics Education Research*. (2021).
+Aiken, J. M., De Bin, R., Lewandowski, H. J., & Caballero, M. D. (2021).
+Framework for evaluating statistical models in physics education
+research. *Physical Review Physics Education Research*, *17*, 020104.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.020104>
 
-Mikkelsen, N., **Young, N. T.**, and **Caballero, M. D**. “Investigating institutional influence on graduate program admissions by modeling physics Graduate Record Examination cutoff scores” *Physical Review Physics Education Research*. (2021).
+Mackessy, G., Irving, P. W., Caballero, M. D., & Doughty, L. (2021).
+Comparing student conceptions and construction of while loops in
+modeling motion. In M. B. Bennett, B. W. Frank, & R. E. Vieyra (Eds.),
+*2021 Physics Education Research Conference Proceedings* (pp. 245–250).
+<https://doi.org/10.1119/perc.2021.pr.Mackessy>
 
-Stewart, John, Geraldine L. Cochran, **Rachel Henderson**, Cabot Zabriskie, Seth DeVore, Paul Miller, Gay Stewart, and Lynnette Michaluk. "Mediational effect of prior preparation on performance differences of students underrepresented in physics." *Physical Review Physics Education Research* 17, no. 1 (2021): 010107.
+Mikkelsen, N. J., Young, N. T., & Caballero, M. D. (2021). Investigating
+institutional influence on graduate program admissions by modeling
+physics graduate record examination cutoff scores. *Physical Review
+Physics Education Research*, *17*, 010109.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010109>
 
-Wheatley, Christopher, James Wells, **Rachel Henderson**, and John Stewart. "Applying module analysis to the Conceptual Survey of Electricity and Magnetism." *Physical Review Physics Education Research* 17, (2021): 010102.
+Pollard, B., Hobbs, R., Henderson, R., Caballero, M. D., & Lewandowski,
+H. J. (2021). Introductory physics lab instructors’ perspectives on
+measurement uncertainty. *Physical Review Physics Education Research*,
+*17*, 010133. <https://doi.org/10.1103/PhysRevPhysEducRes.17.010133>
+
+Stewart, J., Cochran, G. L., Henderson, R., Zabriskie, C., DeVore, S.,
+Miller, P., Stewart, G., & Michaluk, L. (2021). Mediational effect of
+prior preparation on performance differences of students
+underrepresented in physics. *Physical Review Physics Education
+Research*, *17*(1), 010107.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010107>
+
+Stewart, J., Drury, B., Wells, J., Adair, A., Henderson, R., Ma, Y.,
+Perez-Lemonche, A., & Pritchard, D. (2021). Examining the relation of
+correct knowledge and misconceptions using the nominal response model.
+*Physical Review Physics Education Research*, *17*(1), 010122.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010122>
+
+Ward, R., Franklin, T., Caballero, M. D., & Henderson, R. (2021).
+<span class="nocase">Investigating Students’ Understanding of
+Measurement Uncertainty in a Two-Course Physics Laboratory
+Sequence</span>. *European Journal of Physics*.
+
+Waterson, A. C., Henderson, R., & Caballero, M. D. (2021).
+<span class="nocase">Analyzing time-to-degree for transfer students at a
+Large Midwestern University</span>. In M. B. Bennett, B. W. Frank, & R.
+E. Vieyra (Eds.), *2021 Physics Education Research Conference
+Proceedings* (pp. 438–443).
+<https://doi.org/10.1119/perc.2021.pr.Waterson>
+
+Wheatley, C., Wells, J., Henderson, R., & Stewart, J. (2021). Applying
+module analysis to the conceptual survey of electricity and magnetism.
+*Physical Review Physics Education Research*, *17*(1), 010102.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010102>
+
+Young, N. T., & Caballero, M. D. (2021a). <span class="nocase">Physics
+Graduate Record Exam does not help applicants “stand out”</span>.
+*Physical Review Physics Education Research*, *17*, 010144.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010144>
+
+Young, N. T., & Caballero, M. D. (2021b).
+<span class="nocase">Predictive and Explanatory Models Might Miss
+Informative Features in Educational Data</span>. *Journal of Educational
+Data Mining*, *13*(4), 31–86. <https://doi.org/10.5281/zenodo.5806830>
 
 ## 2020
 
-**Irving, Paul W.**, **Daryl McPadden**, and **Marcos D. Caballero**. "Communities of practice as a curriculum design theory in an introductory physics class for engineers." *Physical Review Physics Education Research* 16, (2020): 020143.
+Aiken, J. M., De Bin, R., Hjorth-Jensen, M., & Caballero, M. D. (2020).
+Predicting time to graduation at a large enrollment american university.
+*PLOS ONE*, *15*(11). <https://doi.org/10.1371/journal.pone.0242334>
 
-**McPadden, Daryl**, Eric Brewe, **Camila Monsalve**, and **Vashti Sawtelle**. "Productive faculty resources activated by curricular materials: An example of epistemological beliefs in University Modeling Instruction." *Physical Review Physics Education Research* 16, (2020): 020158.
+Bain, K., Matz, R. L., Fata-Hartley, C. L., Caballero, M. D., Ebert-May,
+D., Underwood, S. M., Carmel, J. H., Herrington, D. G., Laverty, J. T.,
+Duffy, E. M., Stoltzfus, J. R., Bender, L., Posey, L. A., Urban-Lurain,
+M., Stowe, R. L., Sweeder, R. D., Tessmer, S. H., & Cooper, M. M.
+(2020). Characterizing College Science Instruction: The
+Three-Dimensional Learning Observation Protocol. *PLOS ONE*, *15*(6),
+e0234640. <https://doi.org/10.1371/journal.pone.0234640>
 
-Aiken, John M., Riccardo De Bin, Morten Hjorth-Jensen, and **Marcos D. Caballero**. "Predicting time to graduation at a large enrollment American university." *Plos one* 15, no. 11 (2020): e0242334.
+Henderson, R., Sawtelle, V., & Nissen, J. M. (2020). Gender and
+self-efficacy: A call to physics educators. *The Physics Teacher*,
+*58*(5), 345–348.
 
-Fracchiolla, Claudia, **Brean Prefontaine**, and **Kathleen Hinko**. "Community of practice approach for understanding identity development within informal physics programs." *Physical Review Physics Education Research* 16, (2020): 020115.
+Irving, P. W., McPadden, D., & Caballero, M. D. (2020). Communities of
+practice as a curriculum design theory in an introductory physics class
+for engineers. *Physical Review Physics Education Research*, *16*,
+020143. <https://doi.org/10.1103/PhysRevPhysEducRes.16.020143>
+
+Odden, T. O. B., Marin, A., & Caballero, M. D. (2020). Thematic analysis
+of 18 years of physics education research conference proceedings using
+natural language processing. *Physical Review Physics Education
+Research*, *16*, 010142.
+<https://doi.org/10.1103/PhysRevPhysEducRes.16.010142>
+
+Pawlak, A., Irving, P. W., & Caballero, M. D. (2020). Learning assistant
+approaches to teaching computational physics problems in a problem-based
+learning course. *Physical Review Physics Education Research*, *16*,
+010139. <https://doi.org/10.1103/PhysRevPhysEducRes.16.010139>
+
+Stewart, J., Henderson, R., Michaluk, L., Deshler, J., Fuller, E., &
+Rambo-Hernandez, K. (2020). Using the social cognitive theory framework
+to chart gender differences in the developmental trajectory of STEM
+self-efficacy in science and engineering students. *Journal of Science
+Education and Technology*, *29*(6), 758–773.
+<https://doi.org/10.1007/s10956-020-09853-5>
+
+Yang, J., Wells, J., Henderson, R., Christman, E., Stewart, G., &
+Stewart, J. (2020). Extending modified module analysis to include
+correct responses: Analysis of the force concept inventory. *Physical
+Review Physics Education Research*, *16*(1), 010124.
+
+## 2019
+
+Aiken, J. M., Henderson, R., & Caballero, M. D. (2019). Modeling student
+pathways in a physics bachelor’s degree program. *Physical Review
+Physics Education Research*, *15*, 010128.
+<https://doi.org/10.1103/PhysRevPhysEducRes.15.010128>
+
+Bott, T., Weller, D., Caballero, M. D., & Irving, P. W. (2019).
+<span class="nocase">Preliminary Analysis of Student-Identified Themes
+around Computation in High School Physics</span>. In Y. Cao, S. Wolf, &
+M. B. Bennett (Eds.), *2019 Physics Education Research Conference
+Proceedings* (pp. 57–62). <https://doi.org/10.1119/perc.2019.pr.Bott>
+
+Bumler, J., Hamerski, P. C., Caballero, M. D., & Irving, P. W. (2019).
+<span class="nocase">How do previous coding experiences influence
+undergraduate physics students?</span> In Y. Cao, S. Wolf, & M. B.
+Bennett (Eds.), *2019 Physics Education Research Conference Proceedings*
+(pp. 69–74). <https://doi.org/10.1119/perc.2019.pr.Bumler>
+
+Caballero, M. D., Chonacky, N., Engelhardt, L., Hilborn, R. C., Lopez
+del Puerto, M., & Roos, K. R. (2019). <span class="nocase">PICUP: A
+Community of Teachers Integrating Computation into Undergraduate Physics
+Courses</span>. *The Physics Teacher*, *57*(6), 397–399.
+<https://doi.org/10.1119/1.5124281>
+
+Caballero, M. D., Engelhardt, L., Hilborn, R., Puerto, M. L. del, &
+Roos, K. (2019). <span class="nocase">PICUP: The Partnership for the
+Integration of Computation into Undergraduate Physics</span>. *APS
+News*, *28*(3).
+<https://www.aps.org/publications/apsnews/201903/backpage.cfm>
+
+Funkhouser, K., Martinez, W., Henderson, R., & Caballero, M. D. (2019).
+<span class="nocase">Design, Analysis, Tools, and Apprenticeship (DATA)
+Lab</span>. *European Journal of Physics*, *40*(6), 065701.
+<https://doi.org/10.1088/1361-6404/ab2f0d>
+
+Hawkins, N., Silvia, D., Caballero, M. D., & O’Shea, B. (2019a).
+<span class="nocase">Comparing Academic and Industry Perspectives on
+Computational Modeling and Data Analysis Competencies</span>. *ACM
+Transactions on Computing Education*.
+
+Hawkins, N., Silvia, D., Caballero, M. D., & O’Shea, B. (2019b).
+<span class="nocase">Informing computational modeling and data analysis
+curricula through expert interviews</span>. *ACM Transactions on
+Computing Education*.
+
+Henderson, R., Funkhouser, K., & Caballero, M. D. (2019).
+<span class="nocase">A Longitudinal Exploration of Students’ Beliefs
+about Experimental Physics</span>. In Y. Cao, S. Wolf, & M. B. Bennett
+(Eds.), *2019 Physics Education Research Conference Proceedings* (pp.
+214–219). <https://doi.org/10.1119/perc.2019.pr.Henderson>
+
+Henderson, R., Stewart, J., & Traxler, A. (2019). Partitioning the
+gender gap in physics conceptual inventories: Force concept inventory,
+force and motion conceptual evaluation, and conceptual survey of
+electricity and magnetism. *Physical Review Physics Education Research*,
+*15*(1), 010131.
+
+Knaub, A. V., Aiken, J. M., & Caballero, M. D. (2019).
+<span class="nocase">Editorial: Focused Collection: Quantitative Methods
+in PER: A Critical Examination</span>. *Physical Review Physics
+Education Research*, *15*, 020001.
+<https://doi.org/10.1103/PhysRevPhysEducRes.15.020001>
+
+Odden, T. O. B., & Caballero, M. D. (2019).
+<span class="nocase">Computational Essays and Computational Literacy at
+the University of Oslo</span>. In Y. Cao, S. Wolf, & M. B. Bennett
+(Eds.), *2019 Physics Education Research Conference Proceedings* (pp.
+429–434). <https://doi.org/10.1119/perc.2019.pr.Odden>
+
+Odden, T. O. B., Lockwood, E., & Caballero, M. D. (2019). Physics
+computational literacy: An exploratory case study using computational
+essays. *Physical Review Physics Education Research*, *15*, 020152.
+<https://doi.org/10.1103/PhysRevPhysEducRes.15.020152>
+
+Weller, D., Caballero, M. D., & Irving, P. W. (2019).
+<span class="nocase">Investigating Teacher Learning Goals Involving
+Computation in High School Physics</span>. In Y. Cao, S. Wolf, & M. B.
+Bennett (Eds.), *2019 Physics Education Research Conference Proceedings*
+(pp. 627–632). <https://doi.org/10.1119/perc.2019.pr.Weller>
+
+Wells, J., Henderson, R., Stewart, J., Stewart, G., Yang, J., & Traxler,
+A. (2019). Exploring the structure of misconceptions in the force
+concept inventory with modified module analysis. *Physical Review
+Physics Education Research*, *15*(1), 020122.
+
+Young, N. T., Allen, G., Aiken, J. M., Henderson, R., & Caballero, M. D.
+(2019). Identifying features predictive of faculty integrating
+computation into physics courses. *Physical Review Physics Education
+Research*, *15*, 010114.
+<https://doi.org/10.1103/PhysRevPhysEducRes.15.010114>
+
+Young, N. T., & Caballero, M. D. (2019). Using machine learning to
+understand physics graduate school admissions. In Y. Cao, S. Wolf, & M.
+B. Bennett (Eds.), *2019 Physics Education Research Conference
+Proceedings* (pp. 669–674). <https://doi.org/10.1119/perc.2019.pr.Young>
+
+## 2018
+
+Caballero, M. D., Dounas-Frazer, D. R., Lewandowski, H. J., & Stetzer,
+M. R. (2018). <span class="nocase">Labs are Necessary, and We Need to
+Invest in Them</span>. *APS News*, *27*(5).
+<https://www.aps.org/publications/apsnews/201805/backpage.cfm>
+
+Caballero, M. D., & Hjorth-Jensen, M. (2018).
+<span class="nocase">Integrating a Computational Perspective in Physics
+Courses</span>. In S. Magazù (Ed.), *<span class="nocase">New Trends in
+Physics Education Research</span>* (pp. 47–76). Nova Science Publishers.
+
+Caballero, M. D., & Merner, L. (2018). Prevalence and nature of
+computational instruction in undergraduate physics programs across the
+united states. *Physical Review Physics Education Research*, *14*,
+020129. <https://doi.org/10.1103/PhysRevPhysEducRes.14.020129>
+
+Funkhouser, K., Caballero, M. D., Irving, P. W., & Sawtelle, V. (2018).
+What counts in laboratories: Toward a practice-based identity survey. In
+A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics Education Research
+Conference Proceedings*.
+<https://doi.org/10.1119/perc.2018.pr.Funkhouser>
+
+Griswold, K., McPadden, D., Caballero, M. D., & Irving, P. W. (2018).
+<span class="nocase">Denoting and Comparing Leadership Attributes and
+Behaviors in Group Work</span>. In A. Traxler, Y. Cao, & S. Wolf (Eds.),
+*2018 Physics Education Research Conference Proceedings*.
+<https://doi.org/10.1119/perc.2018.pr.Griswold>
+
+Henderson, R., Miller, P., Stewart, J., Traxler, A., & Lindell, R.
+(2018). Item-level gender fairness in the force and motion conceptual
+evaluation and the conceptual survey of electricity and magnetism.
+*Physical Review Physics Education Research*, *14*(2), 020103.
+
+Holland, L., Carver, J., Veltri, L., Henderson, R., & Quedado, K. D.
+(2018). Enhancing research for undergraduates through a nanotechnology
+training program that utilizes analytical and bioanalytical tools.
+*Analytical and Bioanalytical Chemistry*, *410*(24), 6041–6050.
+
+Laverty, J. T., & Caballero, M. D. (2018). Analysis of the most common
+concept inventories in physics: What are we assessing? *Physical Review
+Physics Education Research*, *14*, 010123.
+<https://doi.org/10.1103/PhysRevPhysEducRes.14.010123>
+
+Leary, A., Irving, P. W., & Caballero, M. D. (2018). The difficulties
+associated with integrating computation into undergraduate physics. In
+A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics Education Research
+Conference Proceedings*. <https://doi.org/10.1119/perc.2018.pr.Leary>
+
+Matz, R. L., Fata-Hartley, C. L., Posey, L. A., Laverty, J. T.,
+Underwood, S. M., Carmel, J. H., Herrington, D. G., Stowe, R. L.,
+Caballero, M. D., Ebert-May, D., & Cooper, M. M. (2018). Evaluating the
+extent of a large-scale transformation in gateway science courses.
+*Science Advances*, *4*(10). <https://doi.org/10.1126/sciadv.aau0554>
+
+McPadden, D., Hamerski, P. C., Caballero, M. D., & Irving, P. W. (2018).
+Feedback as a mechanism for improving students scientific communication
+skills. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics Education
+Research Conference Proceedings*.
+<https://doi.org/10.1119/perc.2018.pr.McPadden>
+
+Pawlak, A., Irving, P. W., & Caballero, M. D. (2018).
+<span class="nocase">Development of the Modes of Collaboration
+framework</span>. *Physical Review Physics Education Research*, *14*,
+010101. <https://doi.org/10.1103/PhysRevPhysEducRes.14.010101>
+
+Sand, O. P., Odden, T. O. B., Lindstrøm, C., & Caballero, M. D. (2018).
+How computation can facilitate sensemaking about physics: A case study.
+In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics Education
+Research Conference Proceedings*.
+<https://doi.org/10.1119/perc.2018.pr.Sand>
+
+Solli, R., Aiken, J. M., Henderson, R., & Caballero, M. D. (2018).
+Examining the relationship between student performance and video
+interactions. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics
+Education Research Conference Proceedings*.
+<https://doi.org/10.1119/perc.2018.pr.Solli>
+
+Stroupe, D., Caballero, M. D., & White, P. (2018). Fostering students’
+epistemic agency through the co-configuration of moth research. *Science
+Education*, 1–25. <https://doi.org/10.1002/sce.21469>
+
+Traxler, A., Henderson, R., Stewart, J., Stewart, G., Papak, A., &
+Lindell, R. (2018). Gender fairness within the force concept inventory.
+*Physical Review Physics Education Research*, *14*(1), 010103.
 
 ## 2017
 
-Pawlak, A. S., Irving, P. W. and Caballero, M.D. “Instructor Approaches to Teaching Computation in Collaborative Physics Problem Solving.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+Caballero, M. D. (2017). Taking A Scientific Approach To Physics
+Education. *<span class="nocase">Student Journal of Physics</span>*,
+*6*(1). <https://www.iopb.res.in/~sjp/sjp_past_issues/V6N1/1.pdf>
 
-Irving, P.W., Obsniuk, M.J. and Caballero, M.D. “P^3: A Practice Focused Learning Environment.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+Caballero, M. D., Doughty, L., Turnbull, A. M., Pepper, R. E., &
+Pollock, S. J. (2017). Assessing learning outcomes in middle-division
+classical mechanics: The colorado classical mechanics and math methods
+instrument. *Physical Review Physics Education Research*, *13*, 010118.
+<https://doi.org/10.1103/PhysRevPhysEducRes.13.010118>
 
-Nair, A., Irving, P. W. and Sawtelle, V. “Exploring Life-Science Students’ Conceptions of Relevance of Physics.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+<span class="nocase">Caballero, M., Obsniuk, M. J., Irving, P. W., et
+al.</span> (2017). <span class="nocase">Teaching Computation in
+Introductory Physics using Complex Problems</span>. *The Physics
+Teacher*.
 
-Leary, A. N., Irving, P.W. and Caballero, M.D. “Assessing the Implementation of Formative Feedback.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+Hawkins, N., Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2017).
+<span class="nocase">Examining Thematic Variation in a
+Phenomenographical Study on Computational Physics</span>. In L. Ding, A.
+Traxler, & Y. Cao (Eds.), *2017 Physics Education Research Conference
+Proceedings* (pp. 168–171). <https://doi.org/10.1119/perc.2017.pr.037>
 
-Irving, P.W. and Caballero, M.D. “Expanding the PICUP community of practice.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+Henderson, R., Stewart, G., Stewart, J., Michaluk, L., & Traxler, A.
+(2017). Exploring the gender gap in the conceptual survey of electricity
+and magnetism. *Physical Review Physics Education Research*, *13*(2),
+020114.
 
-Hawkins, N. T., Irving, P.W. and Caballero, M.D. “Understanding Student Perceptions of Computational Physics Problems in Introductory Mechanics.” Contributed Poster, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
+Irving, P. W., & Caballero, M. D. (2017). Expanding the PICUP community
+of practice. In L. Ding, A. Traxler, & Y. Cao (Eds.), *2017 Physics
+Education Research Conference Proceedings* (pp. 188–191).
+<https://doi.org/10.1119/perc.2017.pr.042>
 
-Waterson, A. C., Irving, P.W. and Caballero, M.D. “The Structure and Method of Planning in Group Work.” *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
-
-Pawlak, A. S., Irving, P. W. and Caballero, M.D. “Instructor Approaches to Teaching Computation in Collaborative Physics Problem Solving.” Contributed Talk, *Physics Education Research Conference*. (July 2017): Cincinnati, OH.
-
-K. Funkhouser, V. Sawtelle and M. D. Caballero. “Examining Physics Identity in Laboratory Settings Through Survey Development.” Poster, *CREATE for STEM MiniConference*. (2017).
-
-Mashood, K.K. “Operationalizing criteria to assess interdisciplinary thinking using textbook analysis.” Talk, *STEM Transformation Institute*. (January 2017): Florida International University, FL.
-
-Little, A., Sawtelle, V. and Humphrey, B. “Mindset Research in Introductory Physics: Strengths of Student Interview Analyses.” Contributed Poster, *AAPT National Meeting*. (February 2017): Atlanta, GA.
-
-L. Tunstall, A. Nair, K. Hinko, P. Irving. and V. Sawtelle. “Exploring LBC Physics Students' Conceptions of Diffusion.” Contributed Poster, *CREATE for STEM MiniConference*. (February 2017): East Lansing, MI.
-
-A. Nair, P. Irving and V. Sawtelle. “Exploring relevance for life-science students in introductory physics.” Contributed Poster, *CREATE for STEM MiniConference*. (February 2017): East Lansing, MI.
-
-Irving, P.W., Obsniuk, M.J. and Caballero, M.D. “P^3: A Practice Focused Learning Environment.” *Accepted EJP.* (2017).
-
-[https://arxiv.org/abs /1607.04455](https://arxiv.org/abs%20/1607.04455)
-
-Irving, V., *Paper* *Publication 2*, Journal, 2017
+Irving, P. W., Obsniuk, M. J., & Caballero, M. D. (2017).
+<span class="nocase">P<sup>3</sup>: a practice focused learning
+environment</span>. *European Journal of Physics*, *38*(5), 055701.
+<https://doi.org/10.1088/1361-6404/aa7529>
 
 ## 2016
 
-Hamerski, P.C., Irving, P.W. and Caballero, M. D. “Exploring the role of design problem in the physics classroom.” Contributed Poster, *Physics Education Research Conference.* (July 2016): Sacramento, CA.
+Aiken, J. M., & Caballero, M. D. (2016). Methods for analyzing pathways
+through a physics major. In D. L. Jones, L. Ding, & A. Traxler (Eds.),
+*2016 Physics Education Research Conference Proceedings* (pp. 28–31).
+<https://doi.org/10.1119/perc.2016.pr.002>
 
-Obsniuk, M.J., Irving, P.W., and Caballero, M.D. “Using phenomenography to better understand student development with computational physics.” Contributed Poster, *Physics Education Research Conference.* (July 2016): Sacramento, CA.
-
-Irving, P.W. and Caballero, M.D. “Assessing Difficult to Assess Learning Goals - Formative Feedback in P3.” Contributed Poster, *Physics Education Research Conference*. (July 2016): Sacramento, CA.
-
-Irving, P.W. and Caballero, M.D. “Assessing Difficult to Assess Learning Goals - Formative Feedback in P3.” Contributed Talk, *Physics Education Research Conference* (July 2016): Sacramento, CA.
-
-P.W. Irving and E.C. Sayre. “Becoming a Physicist: The Roles of Research, Mindsets, and Milestones in upper-division student perceptions.” Invited Talk, *American Association of Physics Teachers National Meeting.* (January 2016): New Orleans, LA.
-
-P.W. Irving. “Identity development in upper-level physics students: transitions in and out of physics.” Invited Talk, *American Physical Society*. (April 2016): Salt Lake City, UT.
-
-P. W. Irving. “Collaborative Assessment Tool (CAT) – Assessing scientific practices in introductory physics.” Invited Talk, *American Physical Society*. (January 2016): Washington DC.
-
-McPadden, D. and Brewe, E. “Network analysis of students’ use of representations in problem solving.” Contributed Talk, *Annual American Physical Society April Meeting*. (April 2016): Salt Lake City, UT.
-
-Pendas, J., McPadden, D., Potvin, G. and Brewe, E. “Modeling Instruction: Optics.” Contributed Poster, *Annual Physics Education Research Conference*. (July 2016): Sacramento, CA.
-
-Monsalve, C., Hazari, Z., McPadden, D., Sonnert, G. and Sadler, P. “Examining the Relationship between Career Outcome Expectations and Physics Identity.” Contributed Poster, *Annual Physics Education Research Conference*. (July 2016). Sacramento, CA.
-
-Dowd, J., McPadden, D. and Brewe, E. “Power boxes: A novel graphical representation of energy in circuits.” Contributed Talk, *Annual American Association of Physics Teachers Meeting*. (July 2016): Sacramento, CA.
-
-Underwood, S. M., Sawtelle, V., Matz, R. L., Anderson, C. W. and Scott, E.E. “An Investigation into how Students Make Connections that Cross the Disciplinary Boundaries of Chemistry, Biology, and Physics.” Talk, *American Chemical Society (ACS) National Meeting*. (March 2016): San Diego, CA. 
-
-Scott, E. E., Sawtelle, V., Anderson, C. W., Mashood, K. K., Matz, R. L. and Underwood, S. M. “Developing an Explanatory Framework to Characterize Student Reasoning About Interdisciplinary Phenomena.” Poster, *Society for the Advancement of Biology Education Research (SABER) National Meeting*. (July 2016): Minneapolis, MN.
-
-Underwood, S. M., Scott, E.E., Mashood, K. K.., Sawtelle, V., Matz, R. L. and Anderson, C. W. “Investigating how students integrate their everyday experiences with their content knowledge from their chemistry, biology, and physics courses.” Presented Talk, *BCCE*. (August 2016): University of Northern Colorado, CO.
-
-K. Funkhouser. “Impacts of Aligning Student and Instructor Expectation in Introductory Physics Labs.” Talk, *Future Academic Scholars in Teaching (FAST) Fellowship Symposium*. (2016).
-
-McPadden, D. Dowd, J. and Brewe, E. “Power Boxes: A New Tool for Understanding Circuits.” Contributed Poster, Annual American Association of Physics Teachers Meeting. (July 2016): Sacramento, CA.
-
-McPadden, D. and Brewe, E. “Network analysis of students’ use of representations in problem solving.” Invited Poster, *Annual FIU STEMposium*. (January 2016): Miami, FL.
-
-McPadden, D. Bruun, J. and Brewe, E. “Addressing Relational Data in Students’ Representation Use with Network Analysis.” Invited Poster, *Annual Physics Education Research Conference*. (July 2016): Sacramento, CA.
-
-McPadden, D. “Student Representation Use in Modeling Instruction Physics: Examining the Influence of Physics 1 Course on Representation Use in Physics.” Invited talk, *Seattle Pacific University – University of Washington Physics Education Research Seminar*. (September 2016): Seattle, WA.
-
-McPadden, D. “Using Network Analysis to understand representation choices in Modeling Instruction – E&M.” Invited talk, *San Jose State University Education Research Seminar*. (October 2016): San Jose, CA.
-
-McPadden, D. “Student representation use in Modeling Instruction – E&M: Examining the impacts of the course, content context, and type of mechanics course.” Invited Talk, *University of Colorado – Boulder Physics Education Seminar*. (December 2016): Boulder, CO.
-
-K. Hinko. “Characterizing Pedagogical Practices of University Physics Students in Informal Learning Environments.” Invited Talk, *American Physical Society, April Meeting*. (April 2016).
-
-K. Hinko. “Characterizing Pedagogical Practices of University Physics Students in Informal Learning Environments.” Invited Talk, *American Association of Physics Teachers, Summer Meeting*. (July 2016).
-
-Little, A. and Sawtelle, V. “Growth Mindset In the Details: Overlapping Interests Projects in Physics.” Contributed Poster*, AAPT National Meeting*. (July 2015): College Park, MD.
-
-McPadden, D., Sawtelle, V. and Brewe, E. “Purpose of Representation Use in Modeling Instruction Physics.” Contributed Talk, AAPT National Meeting. (July 2016): Sacramento, CA.
-
-Little, A., Sawtelle, V. and Humphrey, B. “Context Dependent Mindset: Building New Frameworks and Measurement Methodologies.” Contributed Poster*, AAPT National Meeting*. (July 2016): Sacramento, CA.
-
-Mashood, K.K., Sawtelle, V., Andersen, C.W., Scott, E.E., Matz, R.L. and Underwood, S.M. “Investigating Student Reasoning of Everyday Interdisciplinary Phenomena: Initial Phases.” Contributed Poster, *AAPT National Meeting*. (July 2016): Sacramento, CA.
-
-Funkhouser, K.M., Sawtelle, V., Martinez, W.M. and Caballero, M.D. “Differential Impacts of Aligning Epistemological Expectations in Introductory Physics Labs.” Contributed Poster, *AAPT National Meeting*. (July 2016): Sacramento, CA.
-
-Daane, A.R. and Sawtelle, V. “Student discourse about equity in an introductory college physics course.” Contributed Poster, *AAPT National Meeting*. (July 2016): Sacramento, CA.
-
-A. Nair, J.S. Gouvea, V. Sawtelle and C. Turpen. “The importance of discursive structures in promoting interdisciplinary scientific reasoning.” Contributed Poster, *CREATE for STEM MiniConference*. (February 2016): East Lansing, MI.
-
-S. Boyer, A. Nair and M.D. Caballero. “Comparison of Scientific Practice in Transformed and Traditional Lab Contexts.” Contributed Poster, *Fall 2016 Meeting of the Michigan Section of AAPT*. (October 2016): Lansing, MI.
-
-A. Nair, V. Sawtelle and M.D. Caballero. “Implementation of a Laboratory Activity Designed to Promote Scientific Practice.” Contributed Talk, *2016 AAPT Summer Meeting*. (July 2016): Sacramento, CA.
-
-A. Nair, V. Sawtelle and M.D. Caballero. “Promoting Student Engagement in Scientific Practice in an Introductory Laboratory.” Contributed Poster, *2016 AAPT Summer Meeting*. (July 2016): Sacramento, CA.
-
-J.S. Gouvea, A. Nair, V. Sawtelle and C. Turpen. “Expansive framing across scientific disciplines.” Refereed Poster, *Annual Meeting of the American Educational Research Association*. (April 2016): Washington, DC.
-
-Aiken, J.M. and Caballero, M.D. “Methods for Analyzing Pathways through a Physics Major.” *Proceedings of the Physics Education Research Conference*. (2016): 28-31.
-
-Monsalve, C., Hazari, Z, McPadden, D., Sonnert, G. and Sadler, P. “Examining the relationship between career outcome expectations and physics identity.” *PERC Conf. Proc. (American Association of Physics Teachers).* (2016): 228-231.
-
-Irving, P.W. and Sayre, E.C. “Identity Statuses in upper-division physics students.” *Cultural Studies of Science Education* 11 (2016): 1155–1200.
-
-Irving, P.W. and Sayre, E.C. “Developing physics identities.” *Physics Today* 69.5 (2016): 46.
-
-Mashood, K.K., Sawtelle, V., Anderson, C.W., Matz, R. L., Scott, E. E. and Underwood, S.M. “Developing an empirically grounded framework to assess interdisciplinarity of student explanations of everyday phenomena.” *Proceedings of the 2016 Physics Education Research Conference, American Association of Physics Teachers*. (2016): 220-223
-
-Little, A., Sawtelle, V. and Humphrey, B. “Context Dependent Mindset: Building New Frameworks and Measurement Methodologies.” *Physics Education Research Conference, Proceedings of the 2016 Physics Education Research Conference, American Association of Physics Teachers*. (2016): 204-207.
-
-Daane, A. and Sawtelle, V. “Student Discourse about Equity in an Introductory College Physics Course.” *Physics Education Research Conference, Proceedings of the 2016 Physics Education Research Conference, American Association of Physics Teachers*. (2016): 88-91.
-
-Sawtelle, V. and Turpen, C. “Leveraging a relationship with biology to expand a relationship with physics.” *Phys. Rev. Phys. Educ. Res.* 12.1 010136 (2016).
-
-C. Fracchiolla, S. Hyater-Adams, N. D. Finkelstein and K. Hinko. “University physics students’ motivations and experiences in informal physics programs.” *Physics Education Research Conference 2016,* Part of the PER Conference series (2016): 124-127.
-
-doi:[10.1119/perc.2016.pr.026](http://dx.doi.org/10.1119/perc.2016.pr.026).
-
-S. Hyater-Adams, C. Fracchiolla, N. D. Finkelstein and K. Hinko. “Understanding connections between physics and racial identities through recognition and relational resources.” *Physics Education Research Conference 2016,* Part of the PER Conference series (2016): 164-167.
-
-doi:[10.1119/perc.2016.pr.036](http://dx.doi.org/10.1119/perc.2016.pr.036).
-
-K. Hinko, P. Madigan, E. Miller and N.D. Finkelstein. “Characterizing Pedagogical Practices of University Physics Students in Informal Learning Environments.” *Physical Review Special Topics: Physics Education Research* 12.1 (2016).
+Laverty, J. T., Underwood, S. M., Matz, R. L., Posey, L. A., Carmel, J.
+H., Caballero, M. D., Fata-Hartley, C. L., Ebert-May, D., Jardeleza, S.
+E., & Cooper, M. M. (2016). Characterizing College Science Assessments:
+The Three-Dimensional Learning Assessment Protocol. *PLOS ONE*, *11*(9),
+e0162333. <https://doi.org/10.1371/journal.pone.0162333>
 
 ## 2015
 
-Pawlak, A., Irving, P.W. and Caballero, M. D. “Students’ engagement in modes of collaboration while solving problems in groups.” Contributed Poster, *Physics Education Research Conference*. (July 2015): Maryland, MD.
+Caballero, M. D. (2015). <span class="nocase">Computation across the
+curriculum: What skills are needed?</span> In A. D. Churukian, D. L.
+Jones, & L. Ding (Eds.), *2015 Physics Education Research Conference
+Proceedings* (pp. 79–82). <https://doi.org/10.1119/perc.2015.pr.015>
 
-Obsniuk, M.J., Irving, P.W. and Caballero, M. D. “Towards understanding how computation influences group discourse in introductory mechanics.” Contributed Poster, *Physics Education Research Conference*. (July 2015): Maryland, MD.
+Caballero, M. D., Wilcox, B. R., Doughty, L., & Pollock, S. J. (2015).
+Unpacking students’ use of mathematics in upper-division physics: Where
+do we go from here? *European Journal of Physics*, *36*(6), 065004.
+<https://doi.org/10.1088/0143-0807/36/6/065004>
 
-Irving, P.W., Sawtelle V. and Caballero, M.D. “The effects of formative feedback in introductory physics.” Contributed Poster, *Physics Education Research Conference*. (July 2015): Maryland, MD.
+Chasteen, S. V., Wilcox, B., Caballero, M. D., Perkins, K. K., Pollock,
+S. J., & Wieman, C. E. (2015). <span class="nocase">Educational
+transformation in upper-division physics: The Science Education
+Initiative model, outcomes, and lessons learned</span>. *Physical Review
+Special Topics – Physics Education Research*, *11*, 020110.
+<https://doi.org/10.1103/PhysRevSTPER.11.020110>
 
-Hancock, J. B., Irving, P.W. Caballero, M. D. “Perceptions of Learning and teamwork: Practice-based introductory Physics.” Contributed Poster, *Physics Education Research Conference*. (July 2015): Maryland, MD.
+Cooper, M. M., Caballero, M. D., Ebert-May, D., Fata-Hartley, C. L.,
+Jardeleza, S. E., Krajcik, J. S., Laverty, J. T., Matz, R. L., Posey, L.
+A., & Underwood, S. M. (2015). <span class="nocase">Challenge faculty to
+transform STEM learning</span>. *Science*, *350*(6258), 281–282.
+<https://doi.org/10.1126/science.aab0933>
 
-P.W. Irving and E.C. Sayre. “Advanced Lab as a Community of Practice.” Invited Talk, *Physics Education Research Conference*. (July 2015): Maryland, MD.
+Irving, P. W., Sawtelle, V., & Caballero, M. D. (2015).
+<span class="nocase">Troubleshooting Formative Feedback in P<sup>3</sup>
+(A group-based learning environment)</span>. In A. D. Churukian, D. L.
+Jones, & L. Ding (Eds.), *2015 Physics Education Research Conference
+Proceedings* (pp. 155–158). <https://doi.org/10.1119/perc.2015.pr.034>
 
-M.D. Caballero., P.W. Irving and M.J. Obsniuk. “Projects and Practices in Physics – Inquiry-based Computational Modeling.” Invited Talk, *American Association of Physics Teachers National Meeting.* (July 2015): Maryland, MD.
+Laverty, J. T., Cooper, M. M., & Caballero, M. D. (2015).
+<span class="nocase">Developing the Next Generation of Physics
+Assessments</span>. In A. D. Churukian, D. L. Jones, & L. Ding (Eds.),
+*2015 Physics Education Research Conference Proceedings* (pp. 187–190).
+<https://doi.org/10.1119/perc.2015.pr.042>
 
-McPadden, D. and Brewe, E. “Network analysis of students’ use of representations in problem solving.” Contributed Poster, *Annual Physics Education Research Conference*. (July 2015): College Park, MD.
+Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2015).
+<span class="nocase">A Case Study: Novel Group Interactions through
+Computational Physics</span>. In A. D. Churukian, D. L. Jones, & L. Ding
+(Eds.), *2015 Physics Education Research Conference Proceedings* (pp.
+239–242). <https://doi.org/10.1119/perc.2015.pr.055>
 
-McPadden, D. and Brewe, E. “Network analysis of students’ use of representations in problem solving.” Contributed Talk, *Annual American Association of Physics Teachers Meeting*. (July 2015): College Park, MD.
+Pawlak, A., Irving, P. W., & Caballero, M. D. (2015). Identification of
+a shared answer-making game in group context. In A. D. Churukian, D. L.
+Jones, & L. Ding (Eds.), *2015 Physics Education Research Conference
+Proceedings* (pp. 255–258). <https://doi.org/10.1119/perc.2015.pr.059>
 
-McPadden, D. and Brewe, E. “The Impacts of Instructor and Student Gender on Student Performance in Introductory Modeling Instruction Courses.” Invited Poster, *Annual FIU STEMposium*. (January 2015): Miami, FL.
+Turnbull, A., Doughty, L., Sawtelle, V., & Caballero, M. D. (2015).
+<span class="nocase">Student Ideas around Vector Decomposition in the
+Upper-Division</span>. In A. D. Churukian, D. L. Jones, & L. Ding
+(Eds.), *2015 Physics Education Research Conference Proceedings* (pp.
+239–242). <https://doi.org/10.1119/perc.2015.pr.079>
 
-McPadden, D. and Brewe, E. “The Impacts of Instructor and Student Gender on Student Performance in Introductory Modeling Instruction Courses.” Invited Talk, *Global Physics Department (Online).* (Febuary 2015): Miami, FL.
-
-McPadden, D. “Using Multiple Representations.” Invited Talk, *Center for Advancement and Teaching at Florida International University*. (March 2015): Miami, FL.
-
-K. Hinko. “Pedagogical Modalities of University Physics Students in an Afterschool Program.” Contributed Talk, *American Association of Physics Teachers, Summer Meeting*. (July 2015).
-
-K. Hinko. “Measuring the Impact Of Physics "Outreach": University Participation In Informal Learning.” Invited Talk, *American Association of Physics Teachers, Winter Meeting*. (January 2015).
-
-Irving, P.W., Sawtelle, V. and Caballero, M.D. “Troubleshooting Formative Feedback in P³ (A Group Based Learning Environment.” Contributed Poster, *Physics Education Research Conference*. (July 2015): College Park, MD.
-
-Sawtelle, V. and Little, A. “Understanding the Nuance in Disciplinary Self-Efficacy.” Contributed Talk and Poster, *AAPT National Meeting & Physics Education Research Conference*. (July 2015): College Park, MD.
-
-Turnbull, A., Doughty, L., Sawtelle, V. and Cabellero, M.D. “Student Ideas around Vector Decomposition in the Upper-Division.” Contributed Poster, *Physics Education Research Conference*. (July 2015): College Park, MD.
-
-Hancock, J. B., Sawtelle, V., Caballero, M.D. and Stroupe, D. “Perceptions of Learning and Teamwork: Practice-based Introductory Physics.” Contributed Talk, *AAPT National Meeting*. (July 2015): College Park, MD.
-
-Lee, M., Sawtelle, V., Stroupe, D., Irving, P.W., Obsniuk, M.J. and Caballero, M.D. “Negotiating Positionings within Small Groups in Introductory Physics.” Contributed Talk and Poster, *AAPT National Meeting & Physics Education Research Conference*. (July 2015): College Park, MD.
-
-Laverty, J.T., Cooper, M.M. and Caballero, M.D. “Developing the Next Generation of Physics Assessments.” *Proceedings of the Physics Education Research Conference*. (2015): 187-190.
-
-Caballero, M.D. “Computation across the curriculum: What skills are needed?” *Proceedings of the Physics Education Research Conference.* (2015). 79-82.
-
-Caballero, M.D., Wilcox, B.R., Doughty, L. and Pollock, S.J. “Unpacking students’ use of mathematics in upper-division physics.” *Eur. J. Phys.* 36.065004 (2015). 
-
-Wilcox, B.R., Caballero, M.D., Baily, C., Sadaghiani, H, Chasteen, S.V., Ryan, Q.X. and Pollock, S.J. “Development and Uses of Upper-division Conceptual Assessments.” *Phys. Rev. ST Phys. Educ. Res.* 11.020115 (2015). 
-
-Chasteen, S.V., Wilcox, B.R., Caballero, M.D., Perkins, K.K., Pollock, S.J., Wieman, C.E. “Educational transformation in upper-division physics: The Science Education Initiative model, outcomes, and lessons learned.” *Phys. Rev. ST Phys. Educ. Res.* 11.020110 (2015). 
-
-Cooper, M.M., Caballero, M.D., Ebert-May, D., Fata-Hartley, C.L., Jardeleza, S.E., Krajcik, J.S., Laverty, J.T., Matz, R.L., Posey, L.A. and Underwood, S.M. “Challenge faculty to transform STEM learning.” *Science* 350.6258 (2015): 281-282.
-
-McPadden, D. and Brewe, E. “Network analysis of students’ use of representations in problem solving.” *PERC Conf. Proc. (American Association of Physics Teachers)*. (2015): 219-222.
-
-Mashood, K. K. and Vijay A. Singh. “Rotational kinematics of a rigid body about a fixed axis: Development and analysis of an inventory.” *European Journal of Physics* 36 (2015): 045020*.*
-
-Sayre, E.C. and Irving, P.W. “Brief, Embedded, Spontaneous Metacognitive Talk”, *Physical Review Special Topics - Physics Education Research* 11 (2015): 020121.
-
-Irving, P.W. and Sayre, E.C. “Becoming a physicist: the roles of research, mindsets and milestones in upper-division student perceptions.” *Physics Review Special Topics - Physics Education Research* 11 (2015): 020120.
-
-Pawlak, A., Irving, P.W. and Caballero, M. D. “Identification of a shared answer- making epistemic game in a group context.” *Physics Education Research Conference Proceedings 2015, AIP Conference Proceedings.* (2015).
-
-Obsniuk, M.J., Irving, P.W. and Caballero, M. D. “A Case Study: Novel Group Interactions through Introductory Computational Physics.” *Physics Education Research Conference Proceedings 2015, AIP Conference Proceedings*. (2015).
-
-Turnbull, A., Doughty, L., Sawtelle, V. and Caballero, M.D. “Student Ideas around Vector Decomposition in the Upper-Division.” *Proceedings of the 2015 Physics Education Research Conference, American Association of Physics Teachers*. (2015): 295-298.
-
-Irving, P.W., Sawtelle, V. and Caballero, M.D. “Troubleshooting Formative Feedback in P³ (A Group Based Learning Environment.” *Proceedings of the 2015 Physics Education Research Conference, American Association of Physics Teachers*. (2015): 335-338.
-
-Sawtelle, V. and Little, A. “Understanding the Nuance in Disciplinary Self-Efficacy.” *Proceedings of the 2015 Physics Education Research Conference, American Association of Physics Teachers*. (2015): 295-298. (selected as a Notable Paper)
-
-Dreyfus, B.W., Geller, B.D., Sawtelle, V. and Meltzer, D.E. “Resource letter: Teaching thermodynamics and statistical mechanics in physics, chemistry, and biology.” *Amer. J. of Phys.* 83. (2015): 5-21.
-
-S. Hyater-Adams, K. Hinko and N.D. Finkelstein. “Pathways to STEM: Understanding Identity of Adult Physicists Through Narrative Analysis.” *Physics Ed. Res. Conf. Proceedings*, AIP Press. (2015).
+Wilcox, B. R., Caballero, M. D., Baily, C., Sadaghiani, H., Chasteen, S.
+V., Ryan, Q. X., & Pollock, S. J. (2015). Development and uses of
+upper-division conceptual assessments. *Physical Review Special Topics –
+Physics Education Research*, *11*, 020115.
+<https://doi.org/10.1103/PhysRevSTPER.11.020115>
 
 ## 2014
 
-Caballero, M.D. and Pollock, S.J. “A Model for Incorporating Computation Without Changing the Course: An example from middle-division classical mechanics.” *Am. J. Phys.* 82.231 (2014). 
+Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B. D.,
+Caballero, M. D., & Schatz, M. F. (2014). <span class="nocase">Student
+Use of a Single Lecture Video in a Flipped Introductory Mechanics
+Course</span>. In P. V. Engelhardt, A. D. Churukian, & D. L. Jones
+(Eds.), *2014 Physics Education Research Conference Proceedings* (pp.
+19–22). <https://doi.org/10.1119/perc.2014.pr.001>
 
-P.W. Irving and E.C. Sayre. “Upper-Level Physics Students’ Perceptions of Physicists.” Contributed Poster, *International conference of the learning sciences.* (June 2014).
+Caballero, M. D., Burk, J. B., Aiken, J. M., Thoms, B. D., Douglas, S.
+S., Scanlon, E. M., & Schatz, M. F. (2014).
+<span class="nocase">Integrating Numerical Computation into the Modeling
+Instruction Curriculum</span>. *The Physics Teacher*, *52*(1), 38–42.
+<https://doi.org/10.1119/1.4849153>
 
-Irving, P.W. and Sayre, E. C. “Becoming a Physicist: The Roles of Research, Mindsets, and Milestones.” Contributed Poster, *American Association of Physics Teachers National Meeting.* (July 2014): Minneapolis, MN.
+Caballero, M. D., & Pollock, S. J. (2014). A model for incorporating
+computation without changing the course: An example from middle-division
+classical mechanics. *American Journal of Physics*, *82*(3), 231–237.
+<https://doi.org/10.1119/1.4837437>
 
-Wolf, S. F., Doughty L., Irving, P.W., Sayre, E.C. and Caballero, M.D. “It’s “Just Math”: A New Epistemic Frame.” Contributed Poster, *American Association of Physics Teachers National Meeting.* (July 2014): Minneapolis, MN.
+Ding, L., & Caballero, M. D. (2014). Uncovering the hidden meaning of
+cross-curriculum comparison results on the force concept inventory.
+*Physical Review Special Topics – Physics Education Research*, *10*,
+020125. <https://doi.org/10.1103/PhysRevSTPER.10.020125>
 
-Caballero, M.D., Stroupe, D., Tessmer, S.H., Laverty, J.T. and Irving, P. W. “Blending Content and Practice: Designing a New Introductory Mechanics Course.” Contributed Poster, *American Association of Physics Teachers National Meeting.* (July 2014): Minneapolis, MN.
+Doughty, L., & Caballero, M. D. (2014). <span class="nocase">Rubric
+Design for Separating the Roles of Open-Ended Assessments</span>. In P.
+V. Engelhardt, A. D. Churukian, & D. L. Jones (Eds.), *2014 Physics
+Education Research Conference Proceedings* (pp. 71–74).
+<https://doi.org/10.1119/perc.2014.pr.014>
 
-Wolf, S. F., Doughty L., Irving, P.W., Sayre, E.C. and Caballero. “It’s “Just Math”: A New Epistemic Frame.” Contributed Poster, *Physics Education Research Conference*. (July 2014): Minneapolis, MN.
+Douglas, S. S., Lin, S.-Y., Aiken, J. M., Greco, E. F., Thoms, B. D.,
+Caballero, M. D., & Schatz, M. F. (2014). <span class="nocase">Peer
+Evaluation of Video Lab Reports in a Blended Introductory Physics
+Course</span>. In P. V. Engelhardt, A. D. Churukian, & D. L. Jones
+(Eds.), *2014 Physics Education Research Conference Proceedings* (pp.
+75–78). <https://doi.org/10.1119/perc.2014.pr.015>
 
-Pawlak, A., Doughty, L., Irving, P.W. and Caballero, M.D. “Exploring students’ use of visual representation in introductory electromagnetism.” Contributed Poster, *Physics Education Research Conference*. (July 2014): Minneapolis, MN.
+F., Wolf. S., Doughty, L., Irving, P. W., Sayre, E. C., & Caballero, M.
+D. (2014). <span class="nocase">Just Math: A new epistemic frame</span>.
+In P. V. Engelhardt, A. D. Churukian, & D. L. Jones (Eds.), *2014
+Physics Education Research Conference Proceedings* (pp. 275–278).
+<https://doi.org/10.1119/perc.2014.pr.065>
 
-E.C. Sayre and P.W. Irving. “We know it when we see it: Thinking Like a Physicist.” Invited Talk, *American Association of Physics Teachers National Meeting*. (January 2014): Orlando, FL.
+Hoskinson, A.-M., Couch, B. A., Zwickl, B. M., Hinko, K. A., &
+Caballero, M. D. (2014). Bridging physics and biology teaching through
+modeling. *American Journal of Physics*, *82*(5), 434–441.
+<https://doi.org/10.1119/1.4870502>
 
-E.C. Sayre and P.W. Irving. “Professional Development of Pre-service Physicists: Affordances and Constraints.” Invited Talk, *American Association of Physics Teachers National Meeting.* (July 2014): Minneapolis, MN.
+Laverty, J. T., Tessmer, S. H., Cooper, M. M., & Caballero, M. D.
+(2014). <span class="nocase">Engaging Physics Faculty in Course
+Transformation</span>. In P. V. Engelhardt, A. D. Churukian, & D. L.
+Jones (Eds.), *2014 Physics Education Research Conference Proceedings*
+(pp. 147–150). <https://doi.org/10.1119/perc.2014.pr.033>
 
-Traxler, A., Mahadeo, J., McPadden, D. and Brewe, E. “Multiple Representations and Epistemic Games in Introductory Physics Exam Solutions.” Contributed Talk, *Annual American Association of Physics Teachers Meeting*. (July 2014): Minneapolis, MN.
-
-McPadden, D. and Brewe, E. “The Impacts of Instructor and Student Gender on Student Performance in Introductory Modeling Instruction Courses.” Contributed Talk, *Annual American Association of Physics Teachers Meeting*. (July 2014): Minneapolis, MN.
-
-E.F. Redish, C. Bauer, K. Carleton, T. Cooke, M. Cooper, C. Crouch, B.W. Dreyfus, B.D. Geller, J. Giannini, J. Svoboda Gouvea, M. Klymkowsky, W. Losert, K. Moore, J. Presson, V. Sawtelle, C. Turpen and K. Thompson. “NEXUS/Physics: Rethinking physics for biology and premed students.” Poster, *Mid-Atlantic Regional Learning Assistant Workshop*. (February 2014): College Park, MD. 
-
-McPadden, D. and Brewe, E. “The Impacts of Instructor and Student Gender on Student Performance in Introductory Modeling Instruction Courses.” Invited Poster, *Annual Physics Education Research Conference*. (July 2014): Minneapolis, MN.
-
-K. Hinko. “Analysis of Students' Scientific Creativity in an Afterschool Physics Program.” Contributed Talk, *American Association of Physics Teachers, Summer Meeting*. (July 2014).
-
-K. Hinko. “Supporting the Physics Identity and Practices of University and K-12 Students through Outreach.” Invited Talk, *American Physical Society, March Meeting*. (March 2014).
-
-Sawtelle, V., Gouvea, J.S. and Turpen, C. “Harnessing Affinity Towards Biology to Support Diversity in Physics.” Contributed Talk, *National Association of Research in Science Teaching Annual Conference*. (March 2014): Pittsburgh, PA.
-
-Geller, B.D., Dreyfus, B.W., Gouvea, J., Sawtelle, V., Turpen, C. and Redish, E.F. “Sources of affect in interdisciplinary sense making.” Contributed Talk, *International Conference of the Learning Sciences*. (June 2014): Boulder, CO.
-
-Gouvea, J.S., Dreyfus, B.W., Geller, B.D., Sawtelle, V. and Turpen, C. “In biology we never explain: The construction of epistemological stances in course experiences.” Contributed Poster, *Society for the Advancement of Biology Education Research, National Meeting.* (July 2014): Minneapolis, MN.
-
-Geller, B.D., Dreyfus, B.W., Gouvea, J., Sawtelle, V., Turpen, C. and Redish, E.F. “Explanatory coherence in an introductory physics for life scientists course.” Contributed Talk and Poster, *AAPT National Meeting*. (July 2014): Minneapolis, MN.
-
-Dreyfus, B.W., Geller, B.D., Gouvea, J., Sawtelle, V., Turpen, C. and Redish, E.F. “Chemical energy in introductory physics for the life sciences.” Contributed Talk and Poster, *AAPT National Meeting.* (July 2014): Minneapolis, MN.
-
-Geller, B.D., Dreyfus, B.W., Gouvea, J.S., Sawtelle, V., Turpen, C. and Redish, E.F. “Explanatory coherence in an introductory physics for life scientists course.” Contributed Poster, *Gordon Research Conference*. (2014): South Hadley, MA.
-
-Sawtelle, V., Dreyfus, B.W., Geller, B.D., Gouvea, J., Redish, E.F. and Turpen, C. “Beyond the Numbers: Finding Mechanisms to Support Diversity.” Contributed Talk, *AAPT National Meeting*. (July 2014): Minneapolis, MN.
-
-Sawtelle, V., Dreyfus, B.W., Geller, B.D., Gouvea, J., Redish, E.F. and Turpen, C. “Designing and refining physics for biologists: The scaling up process.” Contributed Poster, *Physics Education Research Conference*. (July 2014): Minneapolis, MN.
-
-Lin, S., Douglas, S.S., Aiken, J.M., Liu, C., Greco, E.F., Thoms, B.D., Caballero, M.D. and Schatz, M.F. “Peer Evaluation of Video Lab Reports in an Introductory Physics MOOC.” *Proceedings of the Physics Education Research Conference*. (2014): 163-166.
-
-Douglas, S.S., Lin, S., Aiken, J.M., Thoms, B.D., Greco, E.F., Caballero, M.D. and Schatz, M.F. “Peer Evaluation of Video Lab Reports in a Blended Introductory Physics Course.” *Proceedings of the Physics Education Research Conference*. (2014): 75-78.
-
-Aiken, J.M., Lin, S., Douglas, S.S., Greco, E.F., Thoms, B.D., Caballero, M.D. and Schatz, M.F. “Student Use of a Single Lecture Video in a Flipped Introductory Mechanics Course.” *Proceedings of the Physics Education Research Conference*. (2014): 19-22.
-
-Laverty, J.T., Tessmer, S.H., Cooper, M.M. and Caballero, M.D. “Engaging Physics Faculty in Course Transformation.” Proceedings of the Physics Education Research Conference. (2014): 147-150.
-
-Doughty, L. and M.D. Caballero. “Rubric Design for Separating the Roles of Open-Ended Assessments.” Proceedings of the Physics Education Research Conference. (2014): 71-74.
-
-Caballero, M.D., Burk, J.B., Aiken, J.M., Douglas, S.S., Scanlon, E.M., Thoms, B.D. and Schatz, M.F. “Integrating Numerical Computation into the Modeling Instruction Curriculum.” Phys. Teach. 52.38 (2014). 
-
-Ding, L. and Caballero, M.D. “Uncovering the hidden meaning of cross-curriculum comparison results on the Force Concept Inventory.” *Phys. Rev. ST Phys. Educ. Res.* 10 (2014). 
-
-Traxler, A., Mahadeo, J., McPadden, D. and Brewe, E. “Multiple Representations and Epistemic Games in Introductory Physics Exam Solutions.” *PERC Conf. Proc. (American Association of Physics Teachers).* (2014): 247-250.
-
-McPadden, D. and Brewe, E. “The Impacts of Instructor and Student Gender on Student Performance in Introductory Modeling Instruction Courses.” *PERC Conf. Proc. (American Association of Physics Teachers)*. (2014): 183-186.
-
-Modir, B., Irving, P.W., Wolf, S. F. and Sayre, E.C. “Learning about the Energy of a Hurricane System through an Estimation Epistemic Game.” *Physics Education Research Conference Proceedings 2014, AIP Conference Proceedings*. (2014).
-
-Wolf, S. F., Doughty L., Irving, P.W., Sayre, E.C. and Caballero, M. D. “Just Math: A new epistemic frame.” *Physics Education Research Conference Proceedings 2014, AIP Conference Proceedings*. (2014).
-
-Irving, P.W. and Sayre, E.C. “Conditions for building a community of practice in an advanced physics laboratory.” *Physics Review Special Topics - Physics Education Research* 10 (2014): 010109.
-
-Geller, B.D., Dreyfus, B.W., Gouvea, J.S., Sawtelle, V**.,** Turpen, C. and Redish, E.F. “Like dissolves like: Unpacking student reasoning about thermodynamic heuristics.” *Proceedings of the 2013 Physics Education Research Conference, American Association of Physics Teachers*. (2014): 157-160.
-
-Dreyfus, B.W., Geller, B.D., Gouvea, J.S., Sawtelle, V., Turpen, C. and Redish, E.F. “Negative energy:  Why interdisciplinary physics requires multiple ontologies.” *Proceedings of the 2013 Physics Education Research Conference, American Association of Physics Teachers*. (2014): 129-132.
-
-Sawtelle, V., Turpen, C. and Gouvea, J.S. “Harnessing Affinity Towards Biology to Support Diversity in Physics.” *Proceedings of the National Association of Research in Science Teaching Annual Conference*. (2014).
-
-Redish, E.F., Sawtelle, V., Turpen, C. “The role physics can play in a multi-disciplinary curriculum for non- physics scientists and engineers.” *Proceedings of the Frontiers in Mathematics and Science Education Research Conference*. (2014).
-
-Geller, B.D., Gouvea, J.S., Sawtelle, V. and Turpen, C. “Sources of Affect around Interdisciplinary Sense Making.” *Proceedings of the International Conferences of the Learning Sciences.* (2014).
-
-Redish, E.F, Bauer, C., Carleton, K.L, Cooke, T.J., Cooper, M., Crouch, C.H., Dreyfus, B.W., Geller, B., Giannini, J., Gouvea, J.S., Klymkowsky, M.W., Losert, W., Moore, K., Presson, J., Sawtelle, V., Turpen, C., Thompson, K. “NEXUS/Physics: An interdisciplinary repurposing of physics for biologists.” *Amer. J. Phys.* 82. (2014): 368–377.
-
-Geller, B.D., Dreyfus, B.W., Gouvea, J.S., Sawtelle, V., Turpen, C. and Redish, E.F. “Entropy and Spontaneity in an Introductory Physics Course for the Life Science Students.” *Amer. J. Phys.* 82. (2014): 394-402.
-
-Dreyfus, B.W., Gouvea, J.S., Geller, B.D., Sawtelle, V., Turpen, C. and Redish, E.F. “Chemical Energy in an Introductory Physics Course for the Life Sciences.” *Amer. J. Phys*. 82. (2014): 403-411.
-
-Dreyfus, B. W., Sawtelle, V., Turpen, C. and Redish, E.F. "A Vision of Interdisciplinary Education: Students' Reasoning about 'High-Energy Bonds' and ATP." *Phys. Rev. ST—Phys. Educ. Res.* 10. 010115 (2014).
-
-Dreyfus, B.W., Geller, B.D, Gouvea, J., Sawtelle, V., Turpen, C. and Redish, E.F., “Ontological metaphors for negative energy in an interdisciplinary context.” *Phys. Rev. ST—Phys. Educ. Res.* 10. 020108 (2014).
-
-K. Hinko, J. Seneca, N.D. Finkelstein. “Use of Scientific Language by University Physics Students Communicating to the Public.” *Physics Ed. Res. Conf. Proceedings*, AIP Press. (2014).
-
-A.-M. Hoskinson, B. Couch, B. Zwickl, K. Hinko and M. Caballero. “Bridging Physics and Biology Teaching through Modeling.” *American Journal of Physics* 82.5 (2014).
-
-<http://dx.doi.org/10.1119/1.4870502>
+Lin, S.-Y., Douglas, S. S., Aiken, J. M., Greco, E. F., Thoms, B. D.,
+Caballero, M. D., & Schatz, M. F. (2014). <span class="nocase">Peer
+Evaluation of Video Lab Reports in an Introductory Physics MOOC</span>.
+In P. V. Engelhardt, A. D. Churukian, & D. L. Jones (Eds.), *2014
+Physics Education Research Conference Proceedings* (pp. 163–166).
+<https://doi.org/10.1119/perc.2014.pr.037>
 
 ## 2013
 
-X. Wu, P.W. Irving and E.C. Sayre. “Students’ scientific practices in Advanced Lab.” Contributed Poster, *Physics Education Research Conference*. (July 2013): Portland, OR.
+Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B. D.,
+Caballero, M. D., & Schatz, M. F. (2013). <span class="nocase">The
+Initial State of Students Taking an Introductory Physics MOOC</span>. In
+P. V. Engelhardt, A. D. Churukian, & D. L. Jones (Eds.), *2013 Physics
+Education Research Conference Proceedings* (pp. 53–56).
+<https://doi.org/10.1119/perc.2013.pr.001>
 
-P.W. Irving and E.C. Sayre. “Undergraduate Research and Identity Development.” Contributed Talk, *American Association of Physics Teachers National Meeting*. (January 2013): New Orleans, LA.
+Caballero, M. D., & Pollock, S. J. (2013).
+<span class="nocase">Assessing Student Learning in Middle-Division
+Classical Mechanics/Math Methods</span>. In P. V. Engelhardt, A. D.
+Churukian, & D. L. Jones (Eds.), *2013 Physics Education Research
+Conference Proceedings* (pp. 81–84).
+<https://doi.org/10.1119/perc.2013.pr.008>
 
-P.W. Irving. “Coming Out of the Physics Closet.” Contributed Talk, *AAPT – American Association of Physics Teachers Summer meeting.* (July 2013): Portland, OR.
+Hoskinson, A.-M., Caballero, M. D., & Knight, J. K. (2013). How can we
+improve problem solving in undergraduate biology?: Applying lessons from
+30 years of physics education research. *Cell Biology Education - Life
+Science Education*, *12*(2), 153–161.
+<https://doi.org/10.1187/cbe.12-09-0149>
 
-P.W. Irving and E.C. Sayre. “Multiple pathways to the development of a physics identity.” Invited Poster, *Physics Education Research Conference*. (July 2013): Portland, OR.
-
-K. Hinko. “Informal Science Participation Positively Affects the Communication and Pedagogical Skills of University Physics Students.” Contributed Talk, *American Physical Society, April Meeting*. (April 2013).
-
-K. Hinko. “Characterizing Physics Students’ Scientific Communication Skills for Non-expert Audiences.” Contributed Talk, *American Association of Physics Teachers Summer Meeting*. (July 2013).
-
-Aiken, J.M., Lin, S., Douglas, S.S., Greco, E.F., Thoms, B.D., Schatz, M.F. and Caballero, M.D. “The Initial State of Students Taking an Introductory Physics MOOC.” *Proceedings of the Physics Education Research Conference*. (2013): 53–56.
-
-Caballero, M.D. and Pollock, S.J. “Assessing Student Learning in Middle-Division Classical Mechanics/Math Methods.” *Proceedings of the Physics Education Research Conference*. (2013): 81–84.
-
-Hoskinson, A-M., Caballero, M.D. and Knight, J. “Can we improve problem solving in biology? Lessons from 30 years of physics education research.” *CBE – LSE* 12.153 (2013). 
-
-Wilcox, B.R., Caballero, M.D. and Pollock, S.J. “Analytic framework for students’ use of mathematics in upper-division physics.” *Phys. Rev. ST Phys. Educ. Res.* 9.020119 (2013). 
-
-Mashood, K.K. and Vijay A. Singh. “Development of a concept inventory in rotational kinematics: Initial phases and some methodological concerns.” *In Nagarjuna et. al .(Eds.), Proceedings of epiSTEME 5 – International Conference to Review Research on Science, Technology and Mathematics Education, Mumbai, India: Cinnamonteal.* (2013).
-
-Mashood, K.K. and Vijay A. “Singh Large-scale studies on the transferability of general problem-solving skills and the pedagogic potential of physics.” *Physics Education (IOP-UK)* 48 (2013): 629-635.
-
-Chen, Y., Irving, P.W., and Sayre, E.C. “An epistemic game for answer making in learning about hydrostatics.” *Physical Review Special Topics-Physics Education Research* 9.1 (2013): 010108.
-
-Irving, P.W., Martinuk, M.“S.” and Sayre, E.C. “Transitions in students’ epistemic framing along two axes: Expansive/Narrow and Serious/Silly.” *Physical Review Special Topics- Physics Education Research* 9.1 (2013): 01011.
-
-Irving, P.W. and Sayre, E.C. “Physics Identity Development: A snapshot of the stages of development of upper-level physics students.” *Journal of the Scholarship of Teaching and Learning* 13.4 (2013).
-
-R. Neideritter and K. Hinko. “Using Physics Lab Tours for Pre-College Students To Promote Scientific Identity.” *Physics Ed. Res. Conf. Proceedings*, AIP Press. (2013).
-
-X. Cid, N. Samuels, K. Hinko, B. Lunk and A. Gupta. “Report from Working Group on “Societal Concerns and PER” from FFPER 2013”, *Forum on Physics Education, American Physical Society*. Fall Newsletter (2013).
-
-<http://www.aps.org/units/fed/newsletters/fall2013/upload/fall13.pdf>
-
-R. Wulf, K. Hinko and N.D. Finkelstein. “Comparing Mechanistic Reasoning in Open and Guided Physics Inquiry Activities.” *Physics Ed. Res. Conf. Proceedings*, AIP Press. (2013).
+Wilcox, B. R., Caballero, M. D., Rehn, D. A., & Pollock, S. J. (2013).
+Analytic framework for students’ use of mathematics in upper-division
+physics. *Physical Review Special Topics – Physics Education Research*,
+*9*, 020119. <https://doi.org/10.1103/PhysRevSTPER.9.020119>
 
 ## 2012
 
-P.W. Irving and E.C. Sayre. “Upper level physics students conceptions of understanding.” Contributed Poster, *Physics Education Research Conference*. (July 2012): Philadelphia, PA.
+Aiken, J. M., Caballero, M. D., Douglas, S. S., Burk, J. B., Scanlon, E.
+M., Thoms, B. D., & Schatz, M. F. (2012).
+<span class="nocase">Understanding Student Computational Thinking with
+Computational Modeling</span>. In P. V. Engelhardt, A. D. Churukian, &
+N. S. Rebello (Eds.), *2012 Physics Education Research Conference
+Proceedings* (pp. 46–49). <https://doi.org/10.1063/1.4789648>
 
-P.W. Irving and E.C. Sayre. “Teaching Assistant Interventions that Produce Sense Making Activities.” Contributed Talk, *American Association of Physics Teachers National Meeting*. (July 2012): Philadelphia, PA.
+Caballero, M. D., Greco, E. F., Murray, E. R., Bujak, K. R., Marr, M.
+J., Catrambone, R., Kohlmyer, M. A., & Schatz, M. F. (2012).
+<span class="nocase">Comparing large lecture mechanics curricula using
+the Force Concept Inventory: A five thousand student study</span>.
+*American Journal of Physics*, *80*(7), 638–644.
+<https://doi.org/10.1119/1.3703517>
 
-E.C. Sayre and P.W. Irving. “Unprompted student-driven metacognitive data from two distinctly different sources.” Contributed Talk, *5th Biennial Meeting of the EARLI Special Interest Group 16: Metacognition*. (September 2012).
+Caballero, M. D., Kohlmyer, M. A., & Schatz, M. F. (2012). Implementing
+and assessing computational modeling in introductory mechanics.
+*Physical Review Special Topics – Physics Education Research*, *8*,
+020106. <https://doi.org/10.1103/PhysRevSTPER.8.020106>
 
-P.W. Irving and E.C. Sayre. “Epistemological Framing: Asynchronous Individuals in Group Problem Solving.” Poster, *Symposium on Sensemaking, Answermaking, and Resource Coordination across the Undergraduate Physics Curriculum at the Biennial Meeting of the EARLI Special Interest Group: Conceptual Change*. (August 2012).
+Caballero, M. D., Wilcox, B. R., Pepper, R. E., & Pollock, S. J. (2012).
+<span class="nocase">ACER: A Framework on the Use of Mathematics in
+Upper-division Physics</span>. In P. V. Engelhardt, A. D. Churukian, &
+N. S. Rebello (Eds.), *2012 Physics Education Research Conference
+Proceedings* (pp. 90–93). <https://doi.org/10.1063/1.4789659>
 
-McPadden, D. and Sayre, E. “Vectors in the Time of Scalars.” Contributed Poster, *Annual Physics Education Research Conference*. (July 2012): Philadelphia, PA.
+Chasteen, S. V., Pepper, R. E., Caballero, M. D., Pollock, S. J., &
+Perkins, K. K. (2012). Colorado upper-division electrostatics
+diagnostic: A conceptual assessment for the junior level. *Physical
+Review Special Topics – Physics Education Research*, *8*, 020108.
+<https://doi.org/10.1103/PhysRevSTPER.8.020108>
 
-Aiken, J.M., Caballero, M.D., Douglas, S.S., Burk, J.B., Scanlon, E.M., Thoms, B.D., Schatz, M.F. “Understanding Student Computational Thinking with Computational Modeling.” *Proceedings of the Physics Education Research Conference*. 1513 (2012): 46–49.
+Wilcox, B. R., Caballero, M. D., Pepper, R. E., & Pollock, S. J. (2012).
+<span class="nocase">Upper-division Student Understanding of Coulomb’s
+Law: Difficulties with Continuous Charge Distributions</span>. In P. V.
+Engelhardt, A. D. Churukian, & N. S. Rebello (Eds.), *2012 Physics
+Education Research Conference Proceedings* (pp. 418–421).
+<https://doi.org/10.1063/1.4789741>
 
-Wilcox, B.R., Caballero, M.D., Pepper, R.E. and Pollock, S.J. “Upper-division Student Understanding of Coulomb’s Law: Difficulties with Continuous Charge Distributions.” *Proceedings of the Physics Education Research Conference*. 1513 (2012): 418–421.
+## 2011
 
-Caballero, M.D., Wilcox, B.R., Pepper, R.E. and Pollock, S.J. “ACER: A Framework on the Use of Mathematics in Upper-division Physics.” *Proceedings of the Physics Education Research Conference*. 1513 (2012): 90–93.
+Bujak, K. R., Caballero, M. D., Schatz, M. F., Marr, M. J., &
+Catrambone, R. (2011). <span class="nocase">Comparing the Matter and
+Interactions Curriculum with a Traditional Physics Curriculum: A Think
+Aloud Study</span>. *2011 AERA Conference Proceedings*.
+<https://arxiv.org/abs/1011.5449v1>
 
-Caballero, M.D., Kohlmyer, M.A., Schatz, M.F., et al. “Comparing large lecture mechanics curricula using the Force Concept Inventory: A five thousand student study.” *Am. J. Phys.* 80.7 (2012). 
+Caballero, M. D., Kohlmyer, M. A., & F., M. (2011). Fostering
+Computational Thinking. In N. S. Rebello, P. V. Engelhardt, & C. Singh
+(Eds.), *2011 Physics Education Research Conference Proceedings* (pp.
+15–18). <https://doi.org/10.1063/1.3679982>
 
-Caballero, M.D., Kohlmyer, M.A. and Schatz, M.F. “Implementing and assessing computational modeling in introductory mechanics.” *Phys. Rev. ST Phys. Educ. Res.* 8.020106 (2012). 
+## 2009
 
-Chasteen, S.V., Pepper, R.E., Caballero, M.D., Pollock, S.J. and Perkins, K.K. “The Colorado Upper-Division Electrostatics (CUE) diagnostic: A conceptual assessment for the junior level.” *Phys. Rev. ST Phys. Educ. Res.* 8.020108 (2012). 
+Cochran, A. L., Barker, E. S., Caballero, M. D., & Györgey-Ries, J.
+(2009). <span class="nocase">Placing the Deep Impact Mission into
+context: Two decades of observations of 9P/Tempel 1 from McDonald
+Observatory</span>. *Icarus*, *199*(1), 119–128.
+<https://doi.org/10.1016/j.icarus.2008.08.015>
 
-Mashood K. K. and Vijay A. Singh. “Variation in angular velocity and angular acceleration of a particle in rectilinear motion.” *European Journal of Physics* 33 (2012): 473-478.
+Kohlmyer, M. A., Caballero, M. D., Catrambone, R., Chabay, R. W., Ding,
+L., Haugan, M. P., Marr, M. J., Sherwood, B. A., & Schatz, M. F. (2009).
+<span class="nocase">Tale of two curricula: The performance of 2000
+students in introductory electromagnetism</span>. *Physical Review
+Special Topics – Physics Education Research*, *5*, 020105.
+<https://doi.org/10.1103/PhysRevSTPER.5.020105>
 
-Mashood K. K. and Vijay A. Singh. “Rotational kinematics of a particle in rectilinear motion: Perceptions and pitfalls.” *American Journal of Physics* 80.8 (2012): 720-723.
-
-Mashood K. K. and Vijay. A. Singh. “An inventory on rotational kinematics of a particle: Unraveling misconceptions and pitfalls in reasoning.” *European Journal of Physics* 33 (2012): 1301-1312.
-
-Chari, D., Irving, P., Howard, R., and Bowe, B. “Identifying Knowledge, Skill and Competence for Nanoscience and Nanotechnology Research: A Study of Postgraduate Researchers’ Experiences.” *International Journal of Engineering Education* 28.5 (2012): 1046- 1055.
-
-Irving, P.W. and Sayre, E.C. “Upper Level Physics Students Conceptions Of Understanding.” *Physics Education Research Conference Proceedings 2012, AIP Conference Proceedings*. (2012).
-
-Wulf, K. Hinko and N.D. Finkelstein, “Promoting Children’s Agency and Communication Skills in an Informal Science Program.” *Physics Ed. Res. Conf. Proceedings,* AIP Press. (2012).
-
-Hinko and N.D. Finkelstein. *“*Impacting University Physics Students Through Participation in Informal Science.” *Physics Ed. Res. Conf. Proceedings*, AIP Press. (2012).
