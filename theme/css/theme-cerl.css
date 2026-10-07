@@ -1,0 +1,39 @@
+/* ── CERL color scheme (teal, grey, black) ────────────────── */
+:root {
+  --color-header-bg:      #0d2b36;
+  --color-header-text:    #f0f0f0;
+  --color-nav-active:     #1e6070;
+  --color-aside-link:     #1e5f6e;
+  --color-heading:        #0d2b36;
+  --color-heading-border: #2e7a8c;
+  --color-accent:         #2e7a8c;
+  --color-accent-hover:   #0d2b36;
+  --color-body-bg:        #ffffff;
+  --color-text:           #1a1a1a;
+  --color-text-light:     #555555;
+  --color-border:         #ccd6d8;
+  --color-aside-bg:       #edf4f6;
+  --color-aside-border:   #2e7a8c;
+  --color-footer-bg:      #f0f3f4;
+  --color-footer-border:  #0d2b36;
+  --color-blockquote:     #3d9aac;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-heading:        #9acfda;
+    --color-heading-border: #2e7a8c;
+    --color-accent:         #4db8cc;
+    --color-accent-hover:   #7dcfdd;
+    --color-aside-link:     #4db8cc;
+    --color-body-bg:        #0d1b22;
+    --color-text:           #e2ecee;
+    --color-text-light:     #8faab2;
+    --color-border:         #1e404d;
+    --color-aside-bg:       #111f27;
+    --color-aside-border:   #2e7a8c;
+    --color-footer-bg:      #0a1419;
+    --color-footer-border:  #1e404d;
+    --color-blockquote:     #4db8cc;
+  }
+}
