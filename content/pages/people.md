@@ -41,9 +41,11 @@ Assistant Professor, Department of Physics and Astronomy, MSU<br>
 PERL Co-director<br>
 Associate Professor, Lyman Briggs College, MSU<br>
 Associate Professor, Department of Physics and Astronomy, MSU<br>
-1310E BPS, 187 Holmes<br>
+187 Holmes, 1310E BPS <br>
 (517) 884-5177<br>
 <vashtis@msu.edu>
+
+My research is in the motivation theory of learning - specifically self-efficacy. I study how to build a more inclusive physics and STEM culture particularly for life science majors, transfer students, and students historically minoritized in physics. I am a qualitative researcher that also engages in mixed methods research studies.
 
 ## Researchers
 
