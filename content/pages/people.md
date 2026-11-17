@@ -90,6 +90,7 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
 <dachille@msu.edu>
+I work on transfer sense of belonging. I think about expanding definition of transfer student success, belonging, and bridging ADGI - BDGI with a transfer peer mentor program TEMPO. 
 
 #### Sage Foster
 <img src="/assets/img/people/sage-foster.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sage Foster">
@@ -121,6 +122,9 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 ## Undergraduate Students
 
 *TODO: add current members.*
+Marita Redichan
+Michael Kwalton
+Kaitlyn Moser
 
 ## Affiliates and Collaborators
 
