@@ -21,6 +21,8 @@ Assistant Professor, CREATE for STEM Institute, MSU<br>
 (517) 884-5611<br>
 <hende473@msu.edu>
 
+Hello -- this is where I'll type my 3-5 sentences.
+
 #### Clausell Mathis
 <img src="/assets/img/people/clausell-mathis.png" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Clausell Mathis">
 Assistant Professor, Lyman Briggs College, MSU<br>
