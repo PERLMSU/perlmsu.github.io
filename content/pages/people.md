@@ -95,6 +95,7 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 <img src="/assets/img/people/sage-foster.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sage Foster">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 1310C BPS<br>
+Sage is currently working on two research projects. The first of which is the PECAP project, a research project interested in creating new, fair assessment tools to measure student conceptual gains. This work is done in collaboration with Dr. Rachel Henderson, Dena Izadi, and researchers at Ohio State University and West Virginia University. Sage is also working on a project investigating student motivations in CMSE 201. This research is done in collaboration with Dr. Victoria Macann in the CMSE and EPET departments.
 <foste328@msu.edu>
 
 #### Jessi Randolph
