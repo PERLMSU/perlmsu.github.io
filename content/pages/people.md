@@ -103,9 +103,13 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 <img src="/assets/img/people/alex-reynolds.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
+<reyno650@msu.edu>
+
+#### Andrea Wooley
+<img src="/assets/img/people/andrea-wooley.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Andrea Wooley">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-<reyno650@msu.edu> · <wooleya2@msu.edu>
+<wooleya2@msu.edu>
 
 ## Undergraduate Students
 
@@ -155,10 +159,15 @@ MSU<br>
 <img src="/assets/img/people/john-byrd.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="John Byrd">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-Amber Hazel<br>
+<Byrdjoh1@msu.edu>
+
+#### Amber Hazel
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
+<hazelamb@msu.edu> · 
+
+#### Delaney Dixon
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
-<Byrdjoh1@msu.edu> · <hazelamb@msu.edu> · <dixonde3@msu.edu>
+<dixonde3@msu.edu>
 
 #### Carissa Myers
 <img src="/assets/img/people/carissa-myers.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Carissa Myers">
