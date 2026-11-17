@@ -43,9 +43,11 @@ Assistant Professor, Department of Physics and Astronomy, MSU<br>
 PERL Co-director<br>
 Associate Professor, Lyman Briggs College, MSU<br>
 Associate Professor, Department of Physics and Astronomy, MSU<br>
-1310E BPS, 187 Holmes<br>
+187 Holmes, 1310E BPS <br>
 (517) 884-5177<br>
 <vashtis@msu.edu>
+
+My research is in the motivation theory of learning - specifically self-efficacy. I study how to build a more inclusive physics and STEM culture particularly for life science majors, transfer students, and students historically minoritized in physics. I am a qualitative researcher that also engages in mixed methods research studies.
 
 ## Researchers
 
@@ -83,6 +85,8 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
 <botttheo@msu.edu>
 
+My research revolves around accessibility and inclusion efforts for disabled physics students. Topics within this research range from computing accessibility with color, inclusive curricular design practices for instructors, and the intersection between physics and disability culture. I am currently working on multiple projects towards my dissertation, and expect to defend in Summer 2027.
+
 #### Frank Dachille
 <img src="/assets/img/people/frank-dachille.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Frank Dachille">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
@@ -93,6 +97,7 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 <img src="/assets/img/people/sage-foster.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sage Foster">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 1310C BPS<br>
+Sage is currently working on two research projects. The first of which is the PECAP project, a research project interested in creating new, fair assessment tools to measure student conceptual gains. This work is done in collaboration with Dr. Rachel Henderson, Dena Izadi, and researchers at Ohio State University and West Virginia University. Sage is also working on a project investigating student motivations in CMSE 201. This research is done in collaboration with Dr. Victoria Macann in the CMSE and EPET departments.
 <foste328@msu.edu>
 
 #### Jessi Randolph
@@ -105,9 +110,13 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 <img src="/assets/img/people/alex-reynolds.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
+<reyno650@msu.edu>
+
+#### Andrea Wooley
+<img src="/assets/img/people/andrea-wooley.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Andrea Wooley">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-<reyno650@msu.edu> · <wooleya2@msu.edu>
+<wooleya2@msu.edu>
 
 ## Undergraduate Students
 
@@ -157,10 +166,15 @@ MSU<br>
 <img src="/assets/img/people/john-byrd.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="John Byrd">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-Amber Hazel<br>
+<Byrdjoh1@msu.edu>
+
+#### Amber Hazel
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
+<hazelamb@msu.edu> · 
+
+#### Delaney Dixon
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
-<Byrdjoh1@msu.edu> · <hazelamb@msu.edu> · <dixonde3@msu.edu>
+<dixonde3@msu.edu>
 
 #### Carissa Myers
 <img src="/assets/img/people/carissa-myers.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Carissa Myers">
