@@ -85,8 +85,6 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
 <botttheo@msu.edu>
 
-My research revolves around accessibility and inclusion efforts for disabled physics students. Topics within this research range from computing accessibility with color, inclusive curricular design practices for instructors, and the intersection between physics and disability culture. I am currently working on multiple projects towards my dissertation, and expect to defend in Summer 2027.
-
 #### Frank Dachille
 <img src="/assets/img/people/frank-dachille.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Frank Dachille">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
@@ -105,6 +103,8 @@ Sage is currently working on two research projects. The first of which is the PE
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
 <randol98@msu.edu>
+
+My research focuses on two main areas: supporting students with psychiatric disabilities in physics and examining how learners engage in mathematical and scientific sensemaking through assessments. My first project explores the realities and complexities of earning a physics degree with psychiatric disabilities and provides practical recommendations for physics educators, physics programs, and institutions to better support physics students with psychiatric disabilities. My second project aims to use evidence centered design to create physics assessment tasks that elicit blended mathematical and scientific sensemaking and mechanistic reasoning in introductory physics courses. 
 
 #### Alex Reynolds
 <img src="/assets/img/people/alex-reynolds.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
