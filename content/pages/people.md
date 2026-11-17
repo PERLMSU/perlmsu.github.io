@@ -90,14 +90,17 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
 <dachille@msu.edu>
+  
 I work on transfer sense of belonging. I think about expanding definition of transfer student success, belonging, and bridging ADGI - BDGI with a transfer peer mentor program TEMPO. 
 
 #### Sage Foster
 <img src="/assets/img/people/sage-foster.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sage Foster">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 1310C BPS<br>
-Sage is currently working on two research projects. The first of which is the PECAP project, a research project interested in creating new, fair assessment tools to measure student conceptual gains. This work is done in collaboration with Dr. Rachel Henderson, Dena Izadi, and researchers at Ohio State University and West Virginia University. Sage is also working on a project investigating student motivations in CMSE 201. This research is done in collaboration with Dr. Victoria Macann in the CMSE and EPET departments.
 <foste328@msu.edu>
+
+Sage is currently working on two research projects. The first of which is the PECAP project, a research project interested in creating new, fair assessment tools to measure student conceptual gains. This work is done in collaboration with Dr. Rachel Henderson, Dena Izadi, and researchers at Ohio State University and West Virginia University. Sage is also working on a project investigating student motivations in CMSE 201. This research is done in collaboration with Dr. Victoria Macann in the CMSE and EPET departments.
+
 
 #### Jessi Randolph
 <img src="/assets/img/people/jessi-randolph.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Jessi Randolph">
