@@ -122,9 +122,12 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 ## Undergraduate Students
 
 *TODO: add current members.*
-Marita Redichan
-Michael Kwalton
-Kaitlyn Moser
+
+#### Marita Redichan
+
+#### Michael Kwalton
+
+#### Kaitlyn Moser
 
 ## Affiliates and Collaborators
 
