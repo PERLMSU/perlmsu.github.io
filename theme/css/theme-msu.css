@@ -1,0 +1,39 @@
+/* ── MSU brand color scheme ───────────────────────────────── */
+:root {
+  --color-header-bg:      #18453b;
+  --color-header-text:    #f0f0f0;
+  --color-nav-active:     #006810;
+  --color-aside-link:     #006810;
+  --color-heading:        #18453b;
+  --color-heading-border: #18453b;
+  --color-accent:         #008208;
+  --color-accent-hover:   #18453b;
+  --color-body-bg:        #ffffff;
+  --color-text:           #1a1a1a;
+  --color-text-light:     #555555;
+  --color-border:         #d6e4d6;
+  --color-aside-bg:       #eaf3ec;
+  --color-aside-border:   #18453b;
+  --color-footer-bg:      #f0f4f0;
+  --color-footer-border:  #18453b;
+  --color-blockquote:     #0b9a6d;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-heading:        #7ec48e;
+    --color-heading-border: #2d7a4f;
+    --color-accent:         #3dc45a;
+    --color-accent-hover:   #65d47a;
+    --color-aside-link:     #3dc45a;
+    --color-body-bg:        #0a1a12;
+    --color-text:           #e2ede5;
+    --color-text-light:     #8aaa90;
+    --color-border:         #1a3828;
+    --color-aside-bg:       #0f2018;
+    --color-aside-border:   #2d7a4f;
+    --color-footer-bg:      #08130e;
+    --color-footer-border:  #1a3828;
+    --color-blockquote:     #3dc45a;
+  }
+}
