@@ -1,7 +1,7 @@
 Title: People
 Slug: people
 
-## Faculty
+## Facult
 
 #### Danny Caballero
 <img src="/assets/img/people/danny-caballero.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Danny Caballero">
