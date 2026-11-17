@@ -21,7 +21,9 @@ Assistant Professor, CREATE for STEM Institute, MSU<br>
 (517) 884-5611<br>
 <hende473@msu.edu>
 
-Hello -- this is where I'll type my 3-5 sentences.
+I’m a physics education researcher who studies instructional pedagogies and assessment tools that can be used for improving learning for all students. As a member of the broader physics community, I’m committed to providing fair and effective educational practices in order to increase the representation of women and other historically marginalized groups within the field of physics.
+
+As a member of the Physics Education Research Lab at MSU, I’m most interested in developing the next generation of physics assessments, particularly with an eye to equity and inclusion. My work employs psychometric theory through large datasets and theoretically-grounded measurement models with an aim to ensure inclusive assessment practices within physics education. Broadly, the research questions that I explore are the following: (1) What is the impact of physics assessments, that may or may not be inclusive, on student success? (2) How can we modify our assessments to improve diversity and inclusion within the physics classroom? (3) How can we ensure that we are assessing our students in an equitable manner so that they can become successful career scientists?
 
 #### Clausell Mathis
 <img src="/assets/img/people/clausell-mathis.png" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Clausell Mathis">
@@ -41,9 +43,11 @@ Assistant Professor, Department of Physics and Astronomy, MSU<br>
 PERL Co-director<br>
 Associate Professor, Lyman Briggs College, MSU<br>
 Associate Professor, Department of Physics and Astronomy, MSU<br>
-1310E BPS, 187 Holmes<br>
+187 Holmes, 1310E BPS <br>
 (517) 884-5177<br>
 <vashtis@msu.edu>
+
+My research is in the motivation theory of learning - specifically self-efficacy. I study how to build a more inclusive physics and STEM culture particularly for life science majors, transfer students, and students historically minoritized in physics. I am a qualitative researcher that also engages in mixed methods research studies.
 
 ## Researchers
 
@@ -91,6 +95,7 @@ Graduate Student, Department of Physics and Astronomy, MSU<br>
 <img src="/assets/img/people/sage-foster.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Sage Foster">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 1310C BPS<br>
+Sage is currently working on two research projects. The first of which is the PECAP project, a research project interested in creating new, fair assessment tools to measure student conceptual gains. This work is done in collaboration with Dr. Rachel Henderson, Dena Izadi, and researchers at Ohio State University and West Virginia University. Sage is also working on a project investigating student motivations in CMSE 201. This research is done in collaboration with Dr. Victoria Macann in the CMSE and EPET departments.
 <foste328@msu.edu>
 
 #### Jessi Randolph
@@ -105,9 +110,13 @@ My research focuses on two main areas: supporting students with psychiatric disa
 <img src="/assets/img/people/alex-reynolds.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Alex Reynolds">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
+<reyno650@msu.edu>
+
+#### Andrea Wooley
+<img src="/assets/img/people/andrea-wooley.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Andrea Wooley">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-<reyno650@msu.edu> · <wooleya2@msu.edu>
+<wooleya2@msu.edu>
 
 ## Undergraduate Students
 
@@ -157,10 +166,15 @@ MSU<br>
 <img src="/assets/img/people/john-byrd.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="John Byrd">
 Graduate Student, Department of Physics and Astronomy, MSU<br>
 2171 BPS<br>
-Amber Hazel<br>
+<Byrdjoh1@msu.edu>
+
+#### Amber Hazel
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
+<hazelamb@msu.edu> · 
+
+#### Delaney Dixon
 Undergraduate Research Assistant, Department of Physics and Astronomy, MSU<br>
-<Byrdjoh1@msu.edu> · <hazelamb@msu.edu> · <dixonde3@msu.edu>
+<dixonde3@msu.edu>
 
 #### Carissa Myers
 <img src="/assets/img/people/carissa-myers.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Carissa Myers">
