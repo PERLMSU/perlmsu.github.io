@@ -39,7 +39,7 @@ Assistant Professor, Department of Physics and Astronomy, MSU<br>
 PERL Co-director<br>
 Associate Professor, Lyman Briggs College, MSU<br>
 Associate Professor, Department of Physics and Astronomy, MSU<br>
-1310E BPS<br>
+1310E BPS, 187 Holmes<br>
 (517) 884-5177<br>
 <vashtis@msu.edu>
 
