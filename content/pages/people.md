@@ -21,7 +21,9 @@ Assistant Professor, CREATE for STEM Institute, MSU<br>
 (517) 884-5611<br>
 <hende473@msu.edu>
 
-Hello -- this is where I'll type my 3-5 sentences.
+I’m a physics education researcher who studies instructional pedagogies and assessment tools that can be used for improving learning for all students. As a member of the broader physics community, I’m committed to providing fair and effective educational practices in order to increase the representation of women and other historically marginalized groups within the field of physics.
+
+As a member of the Physics Education Research Lab at MSU, I’m most interested in developing the next generation of physics assessments, particularly with an eye to equity and inclusion. My work employs psychometric theory through large datasets and theoretically-grounded measurement models with an aim to ensure inclusive assessment practices within physics education. Broadly, the research questions that I explore are the following: (1) What is the impact of physics assessments, that may or may not be inclusive, on student success? (2) How can we modify our assessments to improve diversity and inclusion within the physics classroom? (3) How can we ensure that we are assessing our students in an equitable manner so that they can become successful career scientists?
 
 #### Clausell Mathis
 <img src="/assets/img/people/clausell-mathis.png" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Clausell Mathis">
